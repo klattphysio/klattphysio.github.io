@@ -1,6 +1,6 @@
 ### Winnipeg Physiotherapist
 
-Our office is located within the Centre for Natural Pain Solutions located in the heart of Downtown Winnipeg. 
+Our office is located within the Centre for Natural Pain Solutions which can be found in the heart of Downtown Winnipeg. 
 
 [Conditions](https://klattphysio.github.io/conditions)
 
