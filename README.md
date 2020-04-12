@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Winnipeg Physiotherapist | Stephen Klatt, MPT
 
 You can use the [editor on GitHub](https://github.com/klattphysio/klattphysio.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
