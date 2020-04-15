@@ -9,5 +9,3 @@ There are many times in a persons life where a physiotherapist may help them, an
 [FAQs](https://klattphysio.github.io/faqs)
 
 [Contact Us](https://klattphysio.github.io/contact)
-
-[Guide](https://klattphysio.github.io/guide)
