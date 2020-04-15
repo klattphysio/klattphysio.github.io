@@ -1,7 +1,9 @@
-### Contact Us
+### Home Page
 
-Our office is located within the Centre for Natural Pain Solutions which can be found in the heart of Downtown Winnipeg. 
+ 
 
 [Conditions](https://klattphysio.github.io/conditions)
+
+[Contact Us](https://klattphysio.github.io/contact)
 
 [Guide](https://klattphysio.github.io/guide)
