@@ -2,23 +2,23 @@
 
 [HOME](https://klattphysio.github.io/)
 
-**Acute Injury
+**Acute Injury**
 
-**Chronic Pain
+**Chronic Pain**
 
-**Cancer
+**Cancer**
 
-**Post-Surgical
+**Post-Surgical**
 
-**Post-Fracture
+**Post-Fracture**
 
-**Amputations
+**Amputations**
 
-**Vestibular
+**Vestibular**
 
-**Pelvic Floor
+**Pelvic Floor**
 
-**Concussion
+**Concussion**
 
 Youtube embedded video test
 {% include youtubePlayer.html id="f10mLGJfY1I" %}
