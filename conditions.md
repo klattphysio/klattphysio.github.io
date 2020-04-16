@@ -6,6 +6,8 @@
 
 **Chronic Pain**
 
+{% include youtubePlayer.html id="jIwn9rC3rOI" %}
+
 **Cancer**
 
 **Post-Surgical**
@@ -20,5 +22,4 @@
 
 **Concussion**
 
-Youtube embedded video test
-{% include youtubePlayer.html id="f10mLGJfY1I" %}
+
