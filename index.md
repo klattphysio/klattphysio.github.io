@@ -11,7 +11,3 @@ There are many times in a persons life where a physiotherapist may help them, an
 [About](https://klattphysio.github.io/about)
 
 [Contact Us](https://klattphysio.github.io/contact)
-
-<div class="footer">
-        &copy; 2020 Klatt Physiotherapy
-    </div>
