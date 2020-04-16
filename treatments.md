@@ -1,3 +1,1 @@
-### Treatments 
-
-[HOME](klattphysio.github.io/)
+## Treatments
