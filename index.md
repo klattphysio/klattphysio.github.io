@@ -4,7 +4,7 @@ There are many times in a persons life where a physiotherapist may help them, an
 
 <center>
    
-[Conditions](https://klattphysio.github.io/conditions)
+[Conditions][id]
 
 [Treatment](https://klattphysio.github.io/treatment) 
     
@@ -15,3 +15,5 @@ There are many times in a persons life where a physiotherapist may help them, an
 [Contact Us](https://klattphysio.github.io/contact)
 
 </center>
+
+ [id]: https://klattphysio.github.io/conditions  "Conditions"
