@@ -1,3 +1,1 @@
-### FAQs
-
-[HOME](klattphysio.github.io/)
+## FAQs
