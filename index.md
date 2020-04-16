@@ -2,7 +2,7 @@
 
 There are many times in a persons life where a physiotherapist may help them, and as a physiotherapist in Manitoba, I hope to bring some clarity to when seeing a physiotherapist may be right for you. 
 
-<div style="text-align:center">
+<div style="align:center">
    
    [Conditions](https://klattphysio.github.io/conditions)
 
