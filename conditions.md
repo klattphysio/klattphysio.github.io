@@ -1,7 +1,5 @@
 ## Conditions
 
-[HOME](https://klattphysio.github.io/)
-
 **Acute Injury**
 
 **Chronic Pain**
