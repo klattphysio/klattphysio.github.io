@@ -20,7 +20,7 @@
 
 **Pelvic Floor** <a name="Pelvic Floor"></a>
 
-{% include youtubePelvic.html id="X6CZh96PO20" %}
+{% include youtubePlayer.html id="X6CZh96PO20" %}
 
 **Concussion**
 
