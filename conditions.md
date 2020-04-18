@@ -22,6 +22,8 @@
 
 **Acute Injury** <a name="Acute Injury"></a>
 
+To Ice or not to Ice: [Ice](https://physiotherapy.ca/blog/ice-or-not-ice)
+
 **Chronic Pain** <a name="Chronic Pain"></a>
 
 {% include youtubePlayer.html id="jIwn9rC3rOI" %}
