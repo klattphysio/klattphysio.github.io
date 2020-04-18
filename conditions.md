@@ -12,11 +12,11 @@
 
 [Cancer](#Cancer)
 
-[Amputations](#Amputations)
+[Amputation](#Amputation)
 
 [Vestibular](#Vestibular)
 
-[Concussions](#Concussions)
+[Concussion](#Concussion)
 
 ## Conditions
 
@@ -36,7 +36,7 @@
 
 **Cancer** <a name="Cancer"></a>
 
-**Amputations** <a name="Amputations"></a>
+**Amputation** <a name="Amputation"></a>
 
 **Vestibular** <a name="Vestibular"></a>
 
