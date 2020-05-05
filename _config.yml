@@ -5,4 +5,12 @@ title: Stephen Klatt, MPT
 description: Winnipeg Physiotherapist
 google_analytics: UA-163323223-1
 
-minimal_mistakes_skin: air
+minima:
+  social_links:
+    twitter: KlattPhysio
+    instagram: KlattPhysio
+    linkedin: klattphysio
+    
+    youtube: KlattPhysio
+    youtube_channel: UCdhNII1iflCqr-avtbvD1iw
+    youtube_channel_name: KlattPhysio
