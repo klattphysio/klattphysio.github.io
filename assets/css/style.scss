@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 
-// <!-- https://www.tutorialrepublic.com/css-tutorial/css3-media-queries.php media query -->
+// <!-- https://www.tutorialrepublic.com/css-tutorial/css3-media-queries.php media query this changes size for different devices-->
 .container {
     margin: 0 auto;
     background: #f2f2f2;
@@ -38,7 +38,7 @@
         padding: 0 20px;
     }
 }
-
+// This changes the colour of the footer text
 #footer_wrap p {
   color: #404040;
 }
