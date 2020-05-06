@@ -8,9 +8,8 @@ url: https://www.klattphysio.ca
 author: Stephen Klatt
 Twitter:
   username: KlattPhysio
-  card: summary
-  image: https://www.klattphysio.ca/android-chrome-384x384.png
-  title: Stephen Klatt, MPT
+  card: summary_large_image
+  
 social:
   name: KlattPhysio
   links:
