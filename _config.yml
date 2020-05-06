@@ -6,9 +6,11 @@ tagline: Stephen Klatt is a physiotherapist in Winnipeg, with a focus on treatin
 description: Winnipeg Physiotherapist
 url: https://www.klattphysio.ca
 author: Stephen Klatt
-Twitter:
+
+twitter:
   username: KlattPhysio
-  card: summary
+  card: summary_large_image
+  
 logo: https://www.klattphysio.ca/android-chrome-384x384.png
 social:
   name: KlattPhysio
