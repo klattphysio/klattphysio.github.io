@@ -2,8 +2,8 @@ github:
   is_project_page: false
 theme: jekyll-theme-slate
 title: Stephen Klatt, MPT
-tagline: Winnipeg Physiotherapist
-description: Stephen Klatt is a physiotherapist in Winnipeg, with a focus on treating acute and chronic pain. Call us to book an appointment today! 
+tagline: Stephen Klatt is a physiotherapist in Winnipeg, with a focus on treating acute and chronic pain. Call us to book an appointment today!
+description: Winnipeg Physiotherapist
 url: https://www.klattphysio.ca
 author: Stephen Klatt
 Twitter:
@@ -19,12 +19,12 @@ social:
 
 google_analytics: UA-163323223-1
 
-minima:
-  social_links:
-    twitter: KlattPhysio
-    instagram: KlattPhysio
-    linkedin: klattphysio
+#minima:
+#  social_links:
+ #   twitter: KlattPhysio
+  #  instagram: KlattPhysio
+  #  linkedin: klattphysio
     
-    youtube: KlattPhysio
-    youtube_channel: UCdhNII1iflCqr-avtbvD1iw
-    youtube_channel_name: KlattPhysio
+   # youtube: KlattPhysio
+   # youtube_channel: UCdhNII1iflCqr-avtbvD1iw
+   # youtube_channel_name: KlattPhysio
