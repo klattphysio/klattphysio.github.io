@@ -5,6 +5,8 @@ title: Stephen Klatt, MPT
 
 ![Stephen Klatt, MPT](https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/StephenPortrait.png "Stephen Klatt, MPT"){: .image-right }
 
+<img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/StephenPortrait.png" class="img-right" alt="Stephen Klatt, MPT">
+
 ## Considering seeing a physiotherapist?
 
 There are many times in a person's life when a physiotherapist may help them, and as a physiotherapist in Manitoba, I hope to bring some clarity to when seeing a physiotherapist may be right for you. 
