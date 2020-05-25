@@ -3,7 +3,7 @@ title: Stephen Klatt, MPT
 ---
 # Winnipeg Physiotherapist
 
-![Stephen Klatt, MPT](https://github.com/klattphysio/klattphysio.github.io/blob/master/_pictures/Stephen_50.jpg?raw=true "Stephen Klatt, MPT")
+![Stephen Klatt, MPT](https://github.com/klattphysio/klattphysio.github.io/blob/master/_pictures/StephenPortrait.png "Stephen Klatt, MPT")
 
 ## Considering seeing a physiotherapist?
 
