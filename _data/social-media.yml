@@ -1,0 +1,35 @@
+#email:
+ # id: 'your.name@yoursite.com'
+#  href: 'mailto:'
+ # title: 'Email'
+ # fa-icon: 'fa-envelope-square'
+
+#facebook:
+ # id: 'your-facebook-username'
+ # href: 'https://www.facebook.com/'
+ # title: 'Facebook'
+ # fa-icon: 'fa-facebook-square'
+
+#github:
+ # id: 'your-github-name'
+ # href: 'https://github.com/'
+ # title: 'GitHub'
+ # fa-icon: 'fa-github-square'
+
+  instagram:
+  id: 'KlattPhysio'
+  href: 'https://www.instagram.com/'
+  title: 'Instagram'
+  fa-icon: 'fa-instagram'
+
+ youtube:
+  id: 'UCdhNII1iflCqr-avtbvD1iw'
+  href: 'https://www.youtube.com/channel/'
+  title: 'youtube'
+  fa-icon: 'fa-youtube'
+
+  twitter:
+  id: 'KlattPhysio'
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter'
