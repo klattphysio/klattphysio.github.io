@@ -3,7 +3,7 @@ title: Stephen Klatt, MPT
 ---
 # Winnipeg Physiotherapist
 
-![Stephen Klatt, MPT](https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/StephenPortrait.png "Stephen Klatt, MPT"){: .image-right }
+![Stephen Klatt, MPT](https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/StephenPortrait.png "Stephen Klatt, MPT"){: .image-right } Stephen Klatt is a physiotherapist that helps clients not just manage, but, overcome acute and chronic pain. His office is located within the Centre for Natural Pain Solutions which can be found in the heart of Downtown Winnipeg. 
 
 <img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/StephenPortrait.png" class="img-right" alt="Stephen Klatt, MPT">
 
