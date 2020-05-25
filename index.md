@@ -3,7 +3,7 @@ title: Stephen Klatt, MPT
 ---
 # Winnipeg Physiotherapist
 
-Stephen Klatt is a physiotherapist that can help yout to not just manage, but, overcome both acute and chronic pain. His primary goal is to help you get moving again. His office is located within the [Centre for Natural Pain Solutions](https://www.klattphysio.ca/contact) which can be found in the heart of Downtown Winnipeg. 
+Stephen Klatt is a physiotherapist that can help you to not only manage, but, overcome both acute and chronic pain. His primary goal is to help you get moving again. His office is located within the [Centre for Natural Pain Solutions](https://www.klattphysio.ca/contact) which can be found in the heart of Downtown Winnipeg on the corner of Broadway and Balmoral. 
 
 ![Stephen Klatt, MPT](https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/StephenPortrait.png "Stephen Klatt, MPT")
 
@@ -12,3 +12,14 @@ Stephen Klatt is a physiotherapist that can help yout to not just manage, but, o
 There are many times in a person's life when a physiotherapist may help them, and as a physiotherapist in Manitoba, I hope to bring some clarity to when seeing a physiotherapist may be right for you. 
 
 Our primary goal as physiotherapists is to help people get moving again. For a number of reasons, our ability to move around the world can become difficult. Physiotherapists are trained to assess and treat these movement difficulties. Whether it's a medical condition, a minor injury or chronic pain, we are able to help you restore your function. 
+
+### Who pays for physiotherapy?
+
+Physiotherapy provided at our clinic is not covered under Manitoba Health Insurance. This is the case for all private clinics in Manitoba that offer physiotherapy services. If you have third-party insurance coverage(such as insurance provided through your work), there is often a portion of it that covers the cost of physiotherapy sessions. At the [Centre for Natural Pain Solutions](https://www.klattphysio.ca/contact), we offer direct billing to most third-party insurance companies including, but not limited to: Manitoba Public Insurance, Workers Compensation Board of Manitoba, Canada Life, and Blue Cross.
+
+### What if I have to pay out-of-pocket for physiotherapy?
+
+Patients have the option to pay out-of-pocket for physiotherapy. It is important to note that physiotherapy fees paid directly by a patient are tax free and qualify as a medical expense for income tax purposes.
+All physiotherapy appointments at our clinic are one-on-one in a private treatment room, and we never double book our clients. Our goal is to get you better as soon as possible through a combination of in-clinic hands-on treatment and a self-managed home program specific to your current condition.
+
+
