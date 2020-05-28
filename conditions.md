@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Conditions"
+permalink: conditions
+---
 ## Conditions
 
 [Acute Injury](#Acute Injury)
