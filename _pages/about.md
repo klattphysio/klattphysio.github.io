@@ -3,7 +3,7 @@ layout: default
 title: "About"
 permalink: about
 ---
-## About
+# About
 
 It was in 2001, when Stephen fractured his lower back that he started pursuing the idea of a career in physiotherapy. His injury led him to seek professional help from physiotherapists in order to recovery from this injury. The compassion and care he received from the physios who treated him, led him to consider physiotherapy as a career for himself. Through his studies and own life experiences with injury rehabilitation, he has developed a passion for injury prevention, biomechanics, and chronic pain management.
 
