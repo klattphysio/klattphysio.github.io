@@ -21,6 +21,8 @@ social:
 
 google_analytics: UA-163323223-1
 
+include: ['_pages']
+
 #minima:
 #  social_links:
  #   twitter: KlattPhysio
