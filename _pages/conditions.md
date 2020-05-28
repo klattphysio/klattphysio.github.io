@@ -3,7 +3,7 @@ layout: default
 title: "Conditions"
 permalink: conditions
 ---
-## Conditions
+# Conditions
 
 [Acute Injury](#Acute Injury)
 
@@ -23,30 +23,28 @@ permalink: conditions
 
 [Concussion](#Concussion)
 
-## Conditions
-
-**Acute Injury** <a name="Acute Injury"></a>
+## Acute Injury <a name="Acute Injury"></a>
 
 To Ice or not to Ice: [Ice](https://physiotherapy.ca/blog/ice-or-not-ice)
 
-**Chronic Pain** <a name="Chronic Pain"></a>
+## Chronic Pain <a name="Chronic Pain"></a>
 
 {% include youtubePlayer.html id="jIwn9rC3rOI" %}
 
-**Post-Surgical** <a name="Post-Surgical"></a>
+## Post-Surgical <a name="Post-Surgical"></a>
 
-**Post-Fracture** <a name="Post-Fracture"></a>
+## Post-Fracture <a name="Post-Fracture"></a>
 
-**Pelvic Floor** <a name="Pelvic Floor"></a>
+## Pelvic Floor <a name="Pelvic Floor"></a>
 
 {% include youtubePelvic.html id="X6CZh96PO20" %}
 
-**Cancer** <a name="Cancer"></a>
+## Cancer <a name="Cancer"></a>
 
-**Amputation** <a name="Amputation"></a>
+## Amputation <a name="Amputation"></a>
 
-**Vestibular** <a name="Vestibular"></a>
+## Vestibular <a name="Vestibular"></a>
 
-**Concussion** <a name="Concussion"></a>
+## Concussion <a name="Concussion"></a>
 
 
