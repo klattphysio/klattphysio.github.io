@@ -5,9 +5,9 @@ permalink: about
 ---
 ## About
 
-<img src="https://github.com/klattphysio/klattphysio.github.io/blob/master/_pictures/Stephen_50.jpg?raw=true" title="Stephen Klatt, MPT" width="640">
-
 It was in 2001, when Stephen fractured his lower back that he started pursuing the idea of a career in physiotherapy. His injury led him to seek professional help from physiotherapists in order to recovery from this injury. The compassion and care he received from the physios who treated him, led him to consider physiotherapy as a career for himself. Through his studies and own life experiences with injury rehabilitation, he has developed a passion for injury prevention, biomechanics, and chronic pain management.
+
+<img src="https://github.com/klattphysio/klattphysio.github.io/blob/master/_pictures/Stephen_50.jpg?raw=true" title="Stephen Klatt, MPT" width="640">
 
 Starting from a young age with a part-time job at the YMCA, Stephen began to develop and deepen his interest in strength and rehabilitation through exercise. Continuing on this path at the university level, he decided to pursue an undergraduate degree from the University of Winnipeg in kinesiology and applied health. As he continued to study, he also had the opportunity of getting first hand experience in a physiotherapy clinic as an assistant, solidifying his idea to give back to others in the way he had been helped through his previous injury.
 
