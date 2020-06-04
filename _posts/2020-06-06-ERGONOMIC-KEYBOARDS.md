@@ -7,5 +7,4 @@ comments: True
 permalink: blog
 ---
 
-# Ergonomic Keyboards
 
