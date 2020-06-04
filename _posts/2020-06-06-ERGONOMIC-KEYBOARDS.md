@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "POST TITLE"
-date: YYYY-MM-DD hh:mm:ss -0000
-categories: CATEGORY-1 CATEGORY-2
+title: "Ergonomic Keyboards"
+date: 2020-06-06 12:00:00 -0000
+categories: Physiotherapy Technology
 comments: True
 ---
 
