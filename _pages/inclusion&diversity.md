@@ -29,5 +29,4 @@ We are committed to combating stigma and shame that may prevent individuals from
 * religious intolerance
 * transphobia
 
-> "Every time someone steps up and says who they are, the world becomes a better, more interesting place. So thank you."<br/>
-> - Brooklyn Nine-Nine
+> "Every time someone steps up and says who they are, the world becomes a better, more interesting place. So thank you."<br/> - Brooklyn Nine-Nine
