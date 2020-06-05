@@ -24,6 +24,8 @@ At the [Centre for Natural Pain Solutions](https://www.klattphysio.ca/contact), 
 
 Patients have the option to pay out-of-pocket for physiotherapy. It is important to note that physiotherapy fees paid directly by a patient are tax free and qualify as a medical expense for income tax purposes.
 
-All physiotherapy appointments at our clinic are one-on-one in a private treatment room, and we never double book our clients. Our goal is to get you better as soon as possible through a combination of in-clinic hands-on treatment and a self-managed home program specific to your current condition.
+All physiotherapy appointments at our clinic are one-on-one in a private treatment room, and we never double book our clients. Our goal is to get you better as soon as possible through a combination of in-clinic hands-on treatment and a self-managed home program specific to your current condition. 
+
+For individuals with financial need seeking non-emergency medical care (including physiotherapy), [WISH Clinic](https://wishclinic.ca/) at Mount Carmel Clinic offers a wide range of medical services free of charge.
 
 
