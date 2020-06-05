@@ -14,5 +14,7 @@ You can also fill out a request form and we will call you back within 2 business
 
 {% include GoogleMaps1.html id="ChIJWYtWVflz6lIRRhQoE66OO0k" %}
 
+<br/>
+
 {% include googlemaps2.html id="J2wpewEG2Z1d3a6HA" %}
 
