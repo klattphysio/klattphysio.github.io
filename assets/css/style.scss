@@ -68,10 +68,14 @@ html,body
 .menu-left {
   float: left;
 }
-
+/* Teal
+background-color: #447785;
+color: #DEE9EC
+*/
 .menu-center {
   width: 500px!important;
   border-radius: 25px;
+  text-align: center
 }
 
 @media screen and (min-width: 660px) {
