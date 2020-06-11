@@ -69,8 +69,10 @@ html,body
   float: left;
 }
 
-.menu-right {
-  float: right;
+@media screen and (min-width: 640px) {
+  .menu-right {
+    float: right;
+  }
 }
 
 .vertical-menu a {
