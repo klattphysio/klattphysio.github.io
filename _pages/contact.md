@@ -10,7 +10,7 @@ Our office is located within the Centre for Natural Pain Solutions which can be 
 
 Call us to book an appointment today.
 
-<p align="center"> <a href="tel:+12047754539"> 204-775-4539</a> </p>
+<b> <p align="center"> <a href="tel:+12047754539">204-775-4539</a> </p> </b>
 
 <!--
 <div class="vertical-menu menu-center">
@@ -19,7 +19,7 @@ Call us to book an appointment today.
 
 You can also fill out a request form and we will call you back within 2 business days by following the link below.
 
-<p align="center"> [Book Now!](https://cfnps.ca/book-appointment/) </p>
+<b> <p align="center"> <a href="https://cfnps.ca/book-appointment/">Book Now!</a> </p> </b>
 
 <!-- <div class="vertical-menu menu-center">
   <a href="https://cfnps.ca/book-appointment/">Book Now!</a>
