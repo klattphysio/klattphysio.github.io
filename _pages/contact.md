@@ -8,7 +8,7 @@ permalink: contact
 
 Our office is located within the Centre for Natural Pain Solutions which can be found in the heart of Downtown Winnipeg at the corner of Broadway and Balmoral.
 
-<p align="center"> Call us to book an appointment today. </p>
+<p align="center"> <u> Call us to book an appointment today </u> </p>
 
 <p align="center"> <b> <a href="tel:+12047754539">204-775-4539</a> </b> </p>
 
