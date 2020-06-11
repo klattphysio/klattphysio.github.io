@@ -40,9 +40,9 @@ permalink: conditions
 
 An acute injury is usually due to a traumatic event, where it is very clear that tissue damage has occurred. If the injury is bad enough, ensure that you seek proper medical care (emergency room, or call an ambulance to get you there) before seeking help from a physiotherapist. Once we are focusing on our recovery, it can be helpful in the first few days to follow the BE CALM protocol.
 
-According to new research, we are overusing ice! [The BE CALM Protocol](http://becalmprotocol.info/the-be-calm-protocol) provides a research based update to how we use ice after an acute injury. 
+According to the new research, we are overusing ice! [The BE CALM Protocol](http://becalmprotocol.info/the-be-calm-protocol) provides a research based update to how we use ice after an acute injury. 
 
-We once followed to PRICE protocol after acute injury. 
+We once followed the PRICE protocol after acute injury. 
 * Protect
 * Rest
 * Ice
@@ -60,9 +60,11 @@ BE CALM, encourages us to:
 
 ## Chronic Pain / Persistent Pain <a name="Chronic Pain"></a>
 
-{% include youtubePlayer.html id="jIwn9rC3rOI" %}
+Chronic pain can have an initial injury associated with it, but it doesn't always have to be related to tissue damage. Because the current research is showing that pain becomes chronic because of an overactive nervous system, we are finding new and creative ways to assess and treat chronic pain. Pain is usually considered chronic or persistent when it has been bothersome for more that 3 months. 
 
-Chronic pain can have an initial injury associated with it, but it doesn't always have to be related to tissue damage. Because the current research is showing that pain becomes chronic because of an overactive nervous system, we are finding new and creative ways to assess and treat chronic pain. Pain is usually considered chronic or persistent when it has been bothersome for more that 3 months. To get the full picture, the involvement of an overactive nervous system can be assessed with specific intake forms that we will have you fill out at the first appointment. The forms have also been used in the past to effectively assess whether or not an individual is at risk of having their acute condition, become chronic pain at a later date. Because of this, almost all the clients that come in to our clinic are screened with these questionnaires.
+To get the full picture and to find out where your pain is coming from, the involvement of an overactive nervous system can be assessed with specific intake forms that we will have you fill out at the first appointment. The forms have also been used in the past to effectively assess whether or not an individual is at risk of having their acute condition, become chronic pain at a later date. Because of this, almost all the clients that come in to our clinic are screened with these questionnaires. Watch the video below for an introduction to understanding why we feel pain:
+
+{% include youtubePlayer.html id="jIwn9rC3rOI" %}
 
 ## Arthritis
 
