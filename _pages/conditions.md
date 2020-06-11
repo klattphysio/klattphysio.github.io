@@ -13,6 +13,7 @@ permalink: conditions
   <a href="#Cancer">Cancer</a>
 </div> 
 
+<!--
 <div class="vertical-menu menu-right">
   <a href="#Acute Injury">Acute Injury</a>
   <a href="#Chronic Pain">Chronic Pain</a>
@@ -20,6 +21,7 @@ permalink: conditions
   <a href="#Post-Fracture">Post-Fracture</a>
   <a href="#Cancer">Cancer</a>
 </div> 
+-->
 
 [Acute Injury](#Acute Injury)
 
