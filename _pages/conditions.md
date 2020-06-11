@@ -1,5 +1,5 @@
 ---
-layout: conditions
+layout: default
 title: "Conditions"
 permalink: conditions
 ---
