@@ -7,18 +7,18 @@ permalink: conditions
 
 <div class="vertical-menu menu-left">
   <a href="#Acute Injury">Acute Injury</a>
-  <a href="#">Link 1</a>
-  <a href="#">Link 2</a>
-  <a href="#">Link 3</a>
-  <a href="#">Link 4</a>
+  <a href="#Chronic Pain">Chronic Pain</a>
+  <a href="#Post-Surgical">Post-Surgical</a>
+  <a href="#Post-Fracture">Post-Fracture</a>
+  <a href="#Cancer">Cancer</a>
 </div> 
 
 <div class="vertical-menu menu-right">
   <a href="#Acute Injury">Acute Injury</a>
-  <a href="#">Link 1</a>
-  <a href="#">Link 2</a>
-  <a href="#">Link 3</a>
-  <a href="#">Link 4</a>
+  <a href="#Chronic Pain">Chronic Pain</a>
+  <a href="#Post-Surgical">Post-Surgical</a>
+  <a href="#Post-Fracture">Post-Fracture</a>
+  <a href="#Cancer">Cancer</a>
 </div> 
 
 [Acute Injury](#Acute Injury)
@@ -29,15 +29,8 @@ permalink: conditions
 
 [Post-Fracture](#Post-Fracture)
 
-[Pelvic Floor](#Pelvic Floor)
-
 [Cancer](#Cancer)
 
-[Amputation](#Amputation)
-
-[Vestibular](#Vestibular)
-
-[Concussion](#Concussion)
 
 ## Acute Injury <a name="Acute Injury"></a>
 
@@ -51,16 +44,6 @@ To Ice or not to Ice: [Ice](https://physiotherapy.ca/blog/ice-or-not-ice)
 
 ## Post-Fracture <a name="Post-Fracture"></a>
 
-## Pelvic Floor <a name="Pelvic Floor"></a>
-
-{% include youtubePelvic.html id="X6CZh96PO20" %}
-
 ## Cancer <a name="Cancer"></a>
-
-## Amputation <a name="Amputation"></a>
-
-## Vestibular <a name="Vestibular"></a>
-
-## Concussion <a name="Concussion"></a>
 
 
