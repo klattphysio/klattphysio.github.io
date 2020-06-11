@@ -5,7 +5,7 @@ permalink: conditions
 ---
 # Conditions
 
-<div class="vertical-menu">
+<div class="vertical-menu menu-left">
   <a href="#Acute Injury">Acute Injury</a>
   <a href="#">Link 1</a>
   <a href="#">Link 2</a>
@@ -13,7 +13,7 @@ permalink: conditions
   <a href="#">Link 4</a>
 </div> 
 
-<div class="vertical-menu">
+<div class="vertical-menu menu-right">
   <a href="#Acute Injury">Acute Injury</a>
   <a href="#">Link 1</a>
   <a href="#">Link 2</a>
