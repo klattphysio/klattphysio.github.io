@@ -42,7 +42,7 @@ An acute injury is usually due to a traumatic event, where it is very clear that
 
 According to new research, we are overusing ice! [The BE CALM Protocol](http://becalmprotocol.info/the-be-calm-protocol) provides a research based update to how we use ice after an acute injury. 
 
-We once followed to PRICE protocol after actue injury. 
+We once followed to PRICE protocol after acute injury. 
 * Protect
 * Rest
 * Ice
@@ -62,13 +62,15 @@ BE CALM, encourages us to:
 
 {% include youtubePlayer.html id="jIwn9rC3rOI" %}
 
-Chronic pain can have an initial injury associated with it, but it doesn't always have to be related to tissue damange. Because the current research is showing that pain becomes chronic because of an overactive nervous system, we are finding new and creative ways to assess and treat chronic pain. Pain is usually considered chronic or persistent when it has been bothersome for more that 3 months. To get the full picture, the involovement of an overactive nervous system can be assessed with specific intake forms that we will have you fill out at the first appointment. The forms have also been used in the past to effectively assess whether or not an individual is at risk of having their acute condition, become chronic pain at a later date. Because of this, almost all the clients that come in to our clinic are screened with these questionnaires.
+Chronic pain can have an initial injury associated with it, but it doesn't always have to be related to tissue damage. Because the current research is showing that pain becomes chronic because of an overactive nervous system, we are finding new and creative ways to assess and treat chronic pain. Pain is usually considered chronic or persistent when it has been bothersome for more that 3 months. To get the full picture, the involvement of an overactive nervous system can be assessed with specific intake forms that we will have you fill out at the first appointment. The forms have also been used in the past to effectively assess whether or not an individual is at risk of having their acute condition, become chronic pain at a later date. Because of this, almost all the clients that come in to our clinic are screened with these questionnaires.
 
 ## Arthritis
 
+Arthritis is a comon condition that refers to the wear and tear that happens to our joints. This is a normal progression as we get older. It is important to know that arthritic changes in a joint do not always cause pain. This is exciting news, because, although we cannot change the arthritis, we can do many things to manage the pain and improve our function. Gentle low-impact exercise and self-managed home program specific to your arthritis can make a huge difference, and help you to go from "just getting by", to "thriving!"
+
 ## Post-Surgical <a name="Post-Surgical"></a>
 
-If you've had a**Hip Replacement** or **Knee Replacement** you may benefit from seeing a physiotherapist before and after your surgery. These are the most common surgeries that I will see clients before and after for physiotherapy. But there are many different types of surgery depending on the surgeons approach that leave individuals with pain and decreased mobility for months afterwards. To take control of your recovery and speed up the healing process, see a physiotherapist. We coordinate your treatment plan with your surgeon to make sure you're recovery is on track.
+If you've had a **Hip Replacement** or **Knee Replacement** you may benefit from seeing a physiotherapist before and after your surgery. These are the most common surgeries that I will see clients before and after for physiotherapy. But there are many different types of surgery depending on the surgeons approach that leave individuals with pain and decreased mobility for months afterwards. To take control of your recovery and speed up the healing process, see a physiotherapist. We coordinate your treatment plan with your surgeon to make sure you're recovery is on track.
 
 ## Post-Fracture <a name="Post-Fracture"></a>
 
