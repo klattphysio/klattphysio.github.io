@@ -60,7 +60,7 @@ BE CALM, encourages us to:
 
 ## Chronic Pain / Persistent Pain <a name="Chronic Pain"></a>
 
-Chronic pain can have an initial injury associated with it, but it doesn't always have to be related to tissue damage. Because the current research is showing that pain becomes chronic because of an overactive nervous system, we are finding new and creative ways to assess and treat chronic pain. Pain is usually considered chronic or persistent when it has been bothersome for more that 3 months. 
+Chronic pain usually has an initial injury associated with it, but by the time it has become chronic, the tissue is usually healed. Once the tissue is healed, the pain exists because the nervous system continues to send danger signals reminding us to protect the previously injured area of the body. Because the current research is showing that pain becomes chronic because of an overactive nervous system, we are finding new and creative ways to assess and treat chronic pain. Pain is usually considered chronic or persistent when it has been bothersome for more that 3 months. 
 
 To get the full picture and to find out where your pain is coming from, the involvement of an overactive nervous system can be assessed with specific intake forms that we will have you fill out at the first appointment. The forms have also been used in the past to effectively assess whether or not an individual is at risk of having their acute condition, become chronic pain at a later date. Because of this, almost all the clients that come in to our clinic are screened with these questionnaires. Watch the video below for an introduction to understanding why we feel pain:
 
