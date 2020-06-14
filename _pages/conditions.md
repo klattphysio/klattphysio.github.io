@@ -29,6 +29,8 @@ permalink: conditions
 
 [Chronic Pain](#Chronic Pain)
 
+[Arthritis](#Arthritis)
+
 [Post-Surgical](#Post-Surgical)
 
 [Post-Fracture](#Post-Fracture)
@@ -56,9 +58,9 @@ BE CALM, encourages us to:
 * Compress (Unless you suspect a fracture, the "C" is for crutches)
 * Able Actions
 * Elevation
-* Minimal Ice
+* Minimal Ice <a name="Chronic Pain"></a>
 
-## Chronic Pain / Persistent Pain <a name="Chronic Pain"></a>
+## Chronic Pain / Persistent Pain
 
 Chronic pain usually has an initial injury associated with it, but by the time it has become chronic, the tissue is usually healed. Once the tissue is healed, the pain exists because the nervous system continues to send danger signals reminding us to protect the previously injured area of the body. Because the current research is showing that pain becomes chronic because of an overactive nervous system, we are finding new and creative ways to assess and treat chronic pain. Pain is usually considered chronic or persistent when it has been bothersome for more that 3 months. 
 
@@ -66,7 +68,7 @@ To get the full picture and to find out where your pain is coming from, the invo
 
 {% include youtubePlayer.html id="jIwn9rC3rOI" %}
 
-## Arthritis
+## Arthritis <a name="Arthritis"></a>
 
 Arthritis is a comon condition that refers to the wear and tear that happens to our joints. This is a normal progression as we get older. It is important to know that arthritic changes in a joint do not always cause pain. This is exciting news, because, although we cannot change the arthritis, we can do many things to manage the pain and improve our function. Gentle low-impact exercise and a self-managed home program specific to your arthritis can make a huge difference, and help you to go from "just getting by" to "thriving!"
 
