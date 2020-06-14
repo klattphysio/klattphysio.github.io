@@ -23,6 +23,9 @@ google_analytics: UA-163323223-1
 
 include: ['_pages']
 
+plugins:
+  - jekyll-sitemap
+
 #minima:
 #  social_links:
  #   twitter: KlattPhysio
