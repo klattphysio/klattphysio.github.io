@@ -59,9 +59,9 @@ BE CALM, encourages us to:
 * Compress (Unless you suspect a fracture, the "C" is for crutches)
 * Able Actions
 * Elevation
-* Minimal Ice <a class="anchor" name="Chronic Pain"></a>
+* Minimal Ice 
 
-## Chronic Pain / Persistent Pain
+## Chronic Pain / Persistent Pain <a class="anchor" name="Chronic Pain"></a>
 
 Chronic pain usually has an initial injury associated with it, but by the time it has become chronic, the tissue is usually healed. Once the tissue is healed, the pain exists because the nervous system continues to send danger signals reminding us to protect the previously injured area of the body. Because the current research is showing that pain becomes chronic because of an overactive nervous system, we are finding new and creative ways to assess and treat chronic pain. Pain is usually considered chronic or persistent when it has been bothersome for more that 3 months. 
 
