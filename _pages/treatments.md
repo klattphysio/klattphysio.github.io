@@ -5,24 +5,47 @@ permalink: treatments
 ---
 # Treatments
 
-## Acupuncture
+[Acupuncture](#acupuncture)
 
-## Cupping
+[Cupping](#cupping)
 
-## Exercise Prescription
+[Exercise Prescription](#exercise prescription)
 
-## Heat or Ice
+[Heat or Ice](#heat or ice)
 
-## Joint Mobilizations
+[Joint Mobilizations](#joint mobilizations)
 
-## Laser
+[Laser](#laser)
 
-## Myofascial Release
+[Myofascial Release](#myofascial release)
 
-## Pain Education
+[Pain Education](#pain education)
 
-## TENS (Transcutaneous Electrical Nerve Stimulation)
+[TENS](#tens)
 
-## Traction
+[Traction](#traction)
 
-## Ultrasound
+[Ultrasound](#ultrasound)
+
+
+## Acupuncture <a class="anchor" id="acupuncture"></a>
+
+## Cupping <a class="anchor" id="cupping"></a>
+
+## Exercise Prescription <a class="anchor" id="exercise prescription"></a>
+
+## Heat or Ice <a class="anchor" name="heat or ice"></a>
+
+## Joint Mobilizations <a class="anchor" name="joint mobilization"></a>
+
+## Laser <a class="anchor" name="laser"></a>
+
+## Myofascial Release <a class="anchor" name="myofascial release"></a>
+
+## Pain Education <a class="anchor" name="pain education"></a>
+
+## TENS (Transcutaneous Electrical Nerve Stimulation) <a class="anchor" name="tens"></a>
+
+## Traction <a class="anchor" name="traction"></a>
+
+## Ultrasound <a class="anchor" name="ultrasound"></a>
