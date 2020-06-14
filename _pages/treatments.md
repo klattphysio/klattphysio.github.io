@@ -36,7 +36,7 @@ permalink: treatments
 
 ## Heat or Ice <a class="anchor" name="heat or ice"></a>
 
-## Joint Mobilizations <a class="anchor" name="joint mobilization"></a>
+## Joint Mobilizations <a class="anchor" name="joint mobilizations"></a>
 
 ## Laser <a class="anchor" name="laser"></a>
 
