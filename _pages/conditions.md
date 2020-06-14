@@ -69,7 +69,7 @@ To get the full picture and to find out where your pain is coming from, the invo
 
 {% include youtubePlayer.html id="jIwn9rC3rOI" %}
 
-## Arthritis <a class="anchor" id="Arthritis" name="Arthritis"></a>
+## Arthritis <a class="anchor" id="Arthritis"></a>
 
 Arthritis is a comon condition that refers to the wear and tear that happens to our joints. This is a normal progression as we get older. It is important to know that arthritic changes in a joint do not always cause pain. This is exciting news, because, although we cannot change the arthritis, we can do many things to manage the pain and improve our function. Gentle low-impact exercise and a self-managed home program specific to your arthritis can make a huge difference, and help you to go from "just getting by" to "thriving!"
 
