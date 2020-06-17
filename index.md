@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Stephen Klatt, MPT 
+title: Stephen Klatt, MPT | Winnipeg Physiotherapist
+description: Stephen Klatt is a Physiotherapist with a focus on treating acute and chronic pain. Located in the heart of Downtown Winnipeg on the corner of Broadway and Balmoral.
+
 ---
 # Winnipeg Physiotherapist
 
