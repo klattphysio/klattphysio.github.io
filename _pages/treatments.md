@@ -2,9 +2,7 @@
 layout: default
 title: "Treatments"
 permalink: treatments
-meta:
-  - name: description
-    content: Here you will find a list and description of possible treatment modalities and techniques used by Physiotherapist Stephen Klatt at the Centre for Natural Pain Solutions.
+description: Here to help you, Physiotherapist Stephen Klatt is trained in a variety of treatment modalities and techniques.
 ---
 # Treatments
 
