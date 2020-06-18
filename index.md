@@ -6,7 +6,7 @@ description: Stephen Klatt is a Physiotherapist with a focus on treating acute a
 ---
 # Winnipeg Physiotherapist
 
-Stephen Klatt is a physiotherapist that can help you to not only manage, but, overcome both acute and chronic pain. His main goal is to help you get moving again. His office is located within the [Centre for Natural Pain Solutions](https://www.klattphysio.ca/contact) which can be found in the heart of Downtown Winnipeg on the corner of Broadway and Balmoral. Stephen is proud to offer one-one-one physiotherapy sessions in a private treatment room. We never double book our clients to ensure that every client gets the therapists full attention during the entire session. 
+Stephen Klatt is a physiotherapist that can help you to not only manage, but, overcome both acute and chronic pain. His main goal is to help you get moving again. His office is located within the [Centre for Natural Pain Solutions](https://cfnps.ca/) which can be found in the heart of Downtown Winnipeg on the corner of Broadway and Balmoral. Stephen is proud to offer one-one-one physiotherapy sessions in a private treatment room. We never double book our clients to ensure that every client gets the therapists full attention during the entire session. 
 
 <img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/StephenPortrait.jpg" alt="Winnipeg Physiotherapist, Stephen Klatt" title="Stephen Klatt, MPT" width="640">
 
@@ -20,7 +20,7 @@ Our primary goal as physiotherapists is to help people get moving again. For a n
 
 Physiotherapy provided at our clinic is not covered under Manitoba Health Insurance. This is the case for all private clinics in Manitoba that offer physiotherapy services. If you have third-party insurance coverage(such as insurance provided through your work), there is often a portion of it that covers the cost of physiotherapy sessions. 
 
-At the [Centre for Natural Pain Solutions](https://www.klattphysio.ca/contact), we offer direct billing to most third-party insurance companies including, but not limited to: Manitoba Public Insurance, Workers Compensation Board of Manitoba, Canada Life, and Blue Cross.
+At the [Centre for Natural Pain Solutions](https://cfnps.ca/), we offer direct billing to most third-party insurance companies including, but not limited to: Manitoba Public Insurance, Workers Compensation Board of Manitoba, Canada Life, and Blue Cross.
 
 ### What if I have to pay out-of-pocket for physiotherapy?
 
