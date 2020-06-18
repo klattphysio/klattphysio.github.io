@@ -7,7 +7,7 @@ description: Found in the heart of Downtown Winnipeg at the corner of Broadway a
 
 # Contact Us
 
-Our office is located within the Centre for Natural Pain Solutions which can be found in the heart of Downtown Winnipeg at the corner of Broadway and Balmoral. 
+Our office is located within the [Centre for Natural Pain Solutions](https://cfnps.ca/) which can be found in the heart of Downtown Winnipeg at the corner of Broadway and Balmoral. 
 
 We look forward to hearing from you. If you have any questions about our services or wish to book an appointment please feel free to contact us:
 
