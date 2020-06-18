@@ -2,6 +2,7 @@
 layout: default
 title: "Inclusion & Diversity"
 permalink: inclusion&diversity
+description: All are welcome! Each day I strive to approach every person I meet with an attitude of understanding, appreciation and acceptance.
 ---
 
 # Inclusion & Diversity
