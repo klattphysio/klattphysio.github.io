@@ -20,7 +20,7 @@ Our primary goal as physiotherapists is to help people get moving again. For a n
 
 Physiotherapy provided at our clinic is not covered under Manitoba Health Insurance. This is the case for all private clinics in Manitoba that offer physiotherapy services. If you have third-party insurance coverage(such as insurance provided through your work), there is often a portion of it that covers the cost of physiotherapy sessions. 
 
-At the [Centre for Natural Pain Solutions](https://cfnps.ca/), we offer direct billing to most third-party insurance companies including, but not limited to: Manitoba Public Insurance, Workers Compensation Board of Manitoba, Canada Life, and Blue Cross.
+At the [Centre for Natural Pain Solutions](https://cfnps.ca/), we offer direct billing to most third-party insurance companies including, but not limited to: Manitoba Public Insurance, Workers Compensation Board of Manitoba, Canada Life, Blue Cross, Green Shield and Sun Life.
 
 ### What if I have to pay out-of-pocket for physiotherapy?
 
