@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: treatments
 title: "Treatments"
 permalink: treatments
 ---
@@ -34,7 +34,7 @@ Below you will find a list of possible treatment modalities and techniques used 
 
 ## Acupuncture <a class="anchor" id="acupuncture"></a>
 
-Acupuncture is the use of very small needles to puncture the skin. A physiotherapist will use acupuncture as a treatment to target, myofascial restriction, swelling, decreased blood flow, and help with pain management and stimulating the nervous system. Acupuncture can even help to improve healing times by stimulating the bodies natural healing response.
+Acupuncture is the use of very small needles to puncture the skin. A physiotherapist will use acupuncture as a treatment to target, myofascial restriction, swelling, decreased blood flow, and help with pain management and stimulating the nervous system. Acupuncture can even help to improve healing times by stimulating the body's natural healing response.
 
 ## Cupping <a class="anchor" id="cupping"></a>
 
