@@ -2,6 +2,7 @@
 layout: default
 title: "About"
 permalink: about
+description: A brief history of Stephen Klatt, MPT. His motivation for becoming a Physiotherapist and why he wants to help you acheive your goals.
 ---
 # About
 
