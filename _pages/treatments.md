@@ -1,7 +1,10 @@
 ---
-layout: treatments
+layout: default
 title: "Treatments"
 permalink: treatments
+meta:
+  - name: description
+    content: Here you will find a list and description of possible treatment modalities and techniques used by Physiotherapist Stephen Klatt at the Centre for Natural Pain Solutions.
 ---
 # Treatments
 
