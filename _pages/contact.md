@@ -22,7 +22,7 @@ We look forward to hearing from you. If you have any questions about our service
 
 You can also fill out a request form and we will call you back within 2 business days by following the link below.
 
-<p align="center"> <b> <a href="https://cfnps.ca/book-appointment/">Book Now!</a> </b> </p>
+<p align="center"> <button> <a href="https://cfnps.ca/book-appointment/">Book Now!</a> </button> </p>
 
 <!-- <div class="vertical-menu menu-center">
   <a href="https://cfnps.ca/book-appointment/">Book Now!</a>
