@@ -112,7 +112,7 @@ a.anchor {
   background-color: #4CAF50; /* Green */
   border: none;
   border-radius: 15px;
-  color: white;
+  color: #373737; /* white */
   padding: 16px 32px;
   text-align: center;
   text-decoration: none;
@@ -124,14 +124,14 @@ a.anchor {
 }
 
 .button5:hover {
-  background-color: white;
-  color: black;
-  border: 2px solid #4CA441;
+  background-color: #f2f2f2; /* brown */
+  color: #373737; /* white */
+  border: 2px solid #307926; /* Green */
   border-radius: 15px;
 }
 
 .button5 {
-  background-color: #4CA441;
-  color: white;
+  background-color: #307926; /* Green */
+  color: #f2f2f2; /* brown */
   border-radius: 15px;
 }
