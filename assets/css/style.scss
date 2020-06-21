@@ -108,31 +108,26 @@ a.anchor {
     visibility: hidden;
 }
 
-a.button2{
- display:inline-block;
- padding:0.5em 3em;
- border:0.16em solid #FFFFFF;
- margin:0 0.3em 0.3em 0;
- box-sizing: border-box;
- text-decoration:none;
- text-transform:uppercase;
- font-family:'Roboto',sans-serif;
- font-weight:400;
- color:#FFFFFF;
- text-align:center;
- transition: all 0.15s;
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
 }
-a.button2:hover{
- color:#DDDDDD;
- border-color:#DDDDDD;
+
+.button5 {
+  background-color: white;
+  color: black;
+  border: 2px solid #555555;
 }
-a.button2:active{
- color:#BBBBBB;
- border-color:#BBBBBB;
-}
-@media all and (max-width:30em){
- a.button2{
-  display:block;
-  margin:0.4em auto;
- }
-}
+
+.button5:hover {
+  background-color: #555555;
+  color: white;
