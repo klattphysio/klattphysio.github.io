@@ -11,7 +11,7 @@ Our office is located within the [Centre for Natural Pain Solutions](https://cfn
 
 We look forward to hearing from you. If you have any questions about our services or wish to book an appointment please feel free to contact us:
 
-<p align="center"> <button class="button button5"> <a href="tel:+12047754539">Call: 204-775-4539</a> </button> </p>
+<p align="center"> <a href="tel:+12047754539"> <button class="button button5">Call: 204-775-4539</button> </a> </p>
 
 <!--
 <div class="vertical-menu menu-center">
