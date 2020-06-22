@@ -10,6 +10,8 @@ Below you will find a list of possible treatment modalities and techniques used 
 
 [Acupuncture](#acupuncture)
 
+<a href="#acupuncture" class="myButton">Acupuncture</a>
+
 [Cupping](#cupping)
 
 [Exercise Prescription](#exercise prescription)
