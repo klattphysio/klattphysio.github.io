@@ -16,6 +16,24 @@ Below you will find a list of possible treatment modalities and techniques used 
 
 <a href="#heat or ice"> <button class="myButton">Heat or Ice</button> </a>
 
+<a href="#joint mobilizations"> <button class="myButton">Joint Mobilizations</button> </a>
+
+<a href="#laser"> <button class="myButton">Laser</button> </a>
+
+<a href="#myofascial release"> <button class="myButton">Myofascial Release</button> </a>
+
+<a href="#pain education"> <button class="myButton">Pain Education</button> </a>
+
+<a href="#stretching"> <button class="myButton">Stretching (Assisted)</button> </a>
+
+<a href="#tens"> <button class="myButton">TENS</button> </a>
+
+<a href="#traction"> <button class="myButton">Traction</button> </a>
+
+<a href="#ultrasound"> <button class="myButton">Ultrasound</button> </a>
+
+<!--
+
 [Acupuncture](#acupuncture)
 
 [Cupping](#cupping)
@@ -40,7 +58,7 @@ Below you will find a list of possible treatment modalities and techniques used 
 
 [Ultrasound](#ultrasound)
 
-
+-->
 ## Acupuncture <a class="anchor" id="acupuncture"></a>
 
 Acupuncture is the use of very small needles to puncture the skin. A physiotherapist will use acupuncture as a treatment to target, myofascial restriction, swelling, decreased blood flow, and help with pain management and stimulating the nervous system. Acupuncture can even help to improve healing times by stimulating the body's natural healing response.
