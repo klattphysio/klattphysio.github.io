@@ -124,22 +124,22 @@ a.anchor {
 }
 
 .button5:hover {
-  background-color: #f2f2f2; /* brown */
-  color: #373737; /* white */
+  background-color: #f2f2f2; /* white */
+  color: #373737; /* brown */
   border: 2px solid #307926; /* Green */
   border-radius: 15px;
 }
 
 .button5 {
   background-color: #307926; /* Green */
-  color: #f2f2f2; /* brown */
+  color: #f2f2f2; /* white */
   border: 2px solid #307926; /* Green */  
   border-radius: 15px;
 }
 
 .myButton {
-	background:linear-gradient(to bottom, #eae0c2 5%, #ccc2a6 100%);
-	background-color:#eae0c2;
+	background:linear-gradient(to bottom, #f2f2f2 5%, #ccc2a6 100%);
+	background-color:#f2f2f2;
 	border-radius:15px;
 	border:2px solid #333029;
 	display:inline-block;
