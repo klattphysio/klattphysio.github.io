@@ -8,11 +8,15 @@ description: Here to help you, Physiotherapist Stephen Klatt is trained in a var
 
 Below you will find a list of possible treatment modalities and techniques used by Stephen Klatt at the [Centre for Natural Pain Solutions](https://cfnps.ca/). This list is to help you get a better understanding of what treatments are available. It is important to know that although there are many options on the list, a thorough assessment helps to narrow down which treatment options are best suited to you as an individual and best suited to your current condition and stage of healing.
 
-[Acupuncture](#acupuncture)
-
-<!-- <a href="#acupuncture" class="myButton">Acupuncture</a> -->
-
 <a href="#acupuncture"> <button class="myButton">Acupuncture</button> </a>
+
+<a href="#cupping"> <button class="myButton">Cupping</button> </a>
+
+<a href="#exercise prescription"> <button class="myButton">Exercise Prescription</button> </a>
+
+<a href="#heat or ice"> <button class="myButton">Heat or Ice</button> </a>
+
+[Acupuncture](#acupuncture)
 
 [Cupping](#cupping)
 
