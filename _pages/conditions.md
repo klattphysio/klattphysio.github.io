@@ -6,26 +6,17 @@ description: Physiotherapy can help with more than just aches and pains. Common 
 ---
 # Conditions
 
-<!--
 <div class="vertical-menu menu-left">
-  <a href="#Acute Injury">Acute Injury</a>
-  <a href="#Chronic Pain">Chronic Pain</a>
-  <a href="#Post-Surgical">Post-Surgical</a>
-  <a href="#Post-Fracture">Post-Fracture</a>
-  <a href="#Cancer">Cancer</a>
+<a href="#Acute Injury"> <button class="myButton">Acute Injury</button> </a>
+<a href="#Chronic Pain"> <button class="myButton">Chronic Pain</button> </a>
+<a href="#Arthritis"> <button class="myButton">Arthritis</button> </a>
 </div> 
--->
 
-<!--
 <div class="vertical-menu menu-right">
-  <a href="#Acute Injury">Acute Injury</a>
-  <a href="#Chronic Pain">Chronic Pain</a>
-  <a href="#Arthritis">Arthritis</a>
-  <a href="#Post-Surgical">Post-Surgical</a>
-  <a href="#Post-Fracture">Post-Fracture</a>
-  <a href="#Cancer">Cancer</a>
+<a href="#Post-Surgical"> <button class="myButton">Post-Surgical</button> </a>
+<a href="#Post-Fracture"> <button class="myButton">Post-Fracture</button> </a>
+<a href="#Cancer"> <button class="myButton">Cancer</button> </a>
 </div> 
--->
 
 <a href="#Acute Injury"> <button class="myButton">Acute Injury</button> </a>
 
