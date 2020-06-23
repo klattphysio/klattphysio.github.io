@@ -12,6 +12,8 @@ Below you will find a list of possible treatment modalities and techniques used 
 
 <!-- <a href="#acupuncture" class="myButton">Acupuncture</a> -->
 
+<a href="#acupuncture"> <button class="myButton">Acupuncture</button> </a>
+
 [Cupping](#cupping)
 
 [Exercise Prescription](#exercise prescription)
