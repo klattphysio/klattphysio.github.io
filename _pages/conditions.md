@@ -12,6 +12,8 @@ description: Physiotherapy can help with more than just aches and pains. Common 
 <a href="#Arthritis"> <button class="myButton">Arthritis</button> </a>
 </div> 
 
+</br>
+
 <div class="vertical-menu menu-right">
 <a href="#Post-Surgical"> <button class="myButton">Post-Surgical</button> </a>
 <a href="#Post-Fracture"> <button class="myButton">Post-Fracture</button> </a>
