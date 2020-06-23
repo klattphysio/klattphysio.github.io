@@ -153,6 +153,8 @@ a.anchor {
 	&:hover {
 	background:linear-gradient(to bottom, #E5E5E5 5%, #f2f2f2 100%);
 	background-color:#E5E5E5;
+	float: left;
+  	width: 33.33%;
 }
  &:active {
 	position:relative;
