@@ -6,18 +6,16 @@ description: Physiotherapy can help with more than just aches and pains. Common 
 ---
 # Conditions
 
-<!--
-<div class="vertical-menu menu-left">
+
+<div class="columns">
 <a href="#Acute Injury"> <button class="myButton">Acute Injury</button> </a>
 <a href="#Chronic Pain"> <button class="myButton">Chronic Pain</button> </a>
 <a href="#Arthritis"> <button class="myButton">Arthritis</button> </a>
-</div> 
-<div class="vertical-menu menu-right">
 <a href="#Post-Surgical"> <button class="myButton">Post-Surgical</button> </a>
 <a href="#Post-Fracture"> <button class="myButton">Post-Fracture</button> </a>
 <a href="#Cancer"> <button class="myButton">Cancer</button> </a>
 </div> 
--->
+
 
 <a href="#Acute Injury"> <button class="myButton">Acute Injury</button> </a>
 
