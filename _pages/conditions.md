@@ -6,7 +6,7 @@ description: Physiotherapy can help with more than just aches and pains. Common 
 ---
 # Conditions
 
-
+<!--
 <div class="columns">
 <a href="#Acute Injury"> <button class="myButton">Acute Injury</button> </a>
 <a href="#Chronic Pain"> <button class="myButton">Chronic Pain</button> </a>
@@ -15,7 +15,7 @@ description: Physiotherapy can help with more than just aches and pains. Common 
 <a href="#Post-Fracture"> <button class="myButton">Post-Fracture</button> </a>
 <a href="#Cancer"> <button class="myButton">Cancer</button> </a>
 </div> 
-
+-->
 
 <a href="#Acute Injury"> <button class="myButton">Acute Injury</button> </a>
 
