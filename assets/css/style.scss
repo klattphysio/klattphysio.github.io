@@ -159,3 +159,9 @@ a.anchor {
 	top:1px;
 }
  }
+
+.columns {
+-webkit-columns: 300px 2;
+   -moz-columns: 300px 2;
+        columns: 300px 2;
+}
