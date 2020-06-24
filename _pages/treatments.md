@@ -8,6 +8,37 @@ description: Here to help you, Physiotherapist Stephen Klatt is trained in a var
 
 Below you will find a list of possible treatment modalities and techniques used by Stephen Klatt at the [Centre for Natural Pain Solutions](https://cfnps.ca/). This list is to help you get a better understanding of what treatments are available. It is important to know that although there are many options on the list, a thorough assessment helps to narrow down which treatment options are best suited to you as an individual and best suited to your current condition and stage of healing.
 
+<div class="columns">
+<a href="#acupuncture"> <button class="myButton">Acupuncture</button> </a>
+<img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/StephenPortrait.jpg" alt="Winnipeg Physiotherapist, Stephen Klatt" title="Stephen Klatt, MPT" width="640">
+
+
+<a href="#cupping"> <button class="myButton">Cupping</button> </a>
+<img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/StephenPortrait.jpg" alt="Winnipeg Physiotherapist, Stephen Klatt" title="Stephen Klatt, MPT" width="640">
+
+<a href="#exercise prescription"> <button class="myButton">Exercise Prescription</button> </a>
+<img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/StephenPortrait.jpg" alt="Winnipeg Physiotherapist, Stephen Klatt" title="Stephen Klatt, MPT" width="640">
+
+<a href="#heat or ice"> <button class="myButton">Heat or Ice</button> </a>
+
+<a href="#joint mobilizations"> <button class="myButton">Joint Mobilizations</button> </a>
+
+<a href="#laser"> <button class="myButton">Laser</button> </a>
+
+<a href="#myofascial release"> <button class="myButton">Myofascial Release</button> </a>
+
+<a href="#pain education"> <button class="myButton">Pain Education</button> </a>
+
+<a href="#stretching"> <button class="myButton">Stretching (Assisted)</button> </a>
+
+<a href="#tens"> <button class="myButton">TENS</button> </a>
+
+<a href="#traction"> <button class="myButton">Traction</button> </a>
+
+<a href="#ultrasound"> <button class="myButton">Ultrasound</button> </a>
+  
+</div>
+
 <a href="#acupuncture"> <button class="myButton">Acupuncture</button> </a>
 
 <a href="#cupping"> <button class="myButton">Cupping</button> </a>
