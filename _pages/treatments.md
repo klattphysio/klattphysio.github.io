@@ -8,7 +8,7 @@ description: Here to help you, Physiotherapist Stephen Klatt is trained in a var
 
 Below you will find a list of possible treatment modalities and techniques used by Stephen Klatt at the [Centre for Natural Pain Solutions](https://cfnps.ca/). This list is to help you get a better understanding of what treatments are available. It is important to know that although there are many options on the list, a thorough assessment helps to narrow down which treatment options are best suited to you as an individual and best suited to your current condition and stage of healing.
 
-<div class="columns">
+<div class="columns" style="text-align:center;">
 <a href="#acupuncture"> <button class="myButton">Acupuncture</button> </a>
 <img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/acupuncture-2277444_1280.jpg" alt="Acupuncture Winnipeg Physiotherapist" title="Acupuncture, Stephen Klatt, MPT" width="299">
 
