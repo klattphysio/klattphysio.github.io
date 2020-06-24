@@ -10,7 +10,7 @@ Below you will find a list of possible treatment modalities and techniques used 
 
 <div class="columns" style="text-align:center;">
 <a href="#acupuncture"> <button class="myButton">Acupuncture</button> </a>
-<img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/acupuncture-2277444_1280.jpg" alt="Acupuncture Winnipeg Physiotherapist" title="Acupuncture, Stephen Klatt, MPT" width="299">
+<a href="#acupuncture"> <img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/acupuncture-2277444_1280.jpg" alt="Acupuncture Winnipeg Physiotherapist" title="Acupuncture, Stephen Klatt, MPT" width="299"> </a>
 
 <a href="#cupping"> <button class="myButton">Cupping</button> </a>
 <img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/StephenPortrait.jpg" alt="Winnipeg Physiotherapist, Stephen Klatt" title="Stephen Klatt, MPT" width="299">
