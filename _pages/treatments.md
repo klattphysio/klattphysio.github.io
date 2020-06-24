@@ -19,22 +19,31 @@ Below you will find a list of possible treatment modalities and techniques used 
 <img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/StephenPortrait.jpg" alt="Winnipeg Physiotherapist, Stephen Klatt" title="Stephen Klatt, MPT" width="299">
 
 <a href="#heat or ice"> <button class="myButton">Heat or Ice</button> </a>
+<img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/StephenPortrait.jpg" alt="Winnipeg Physiotherapist, Stephen Klatt" title="Stephen Klatt, MPT" width="299">
 
 <a href="#joint mobilizations"> <button class="myButton">Joint Mobilizations</button> </a>
+<img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/StephenPortrait.jpg" alt="Winnipeg Physiotherapist, Stephen Klatt" title="Stephen Klatt, MPT" width="299">
 
 <a href="#laser"> <button class="myButton">Laser</button> </a>
+<img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/StephenPortrait.jpg" alt="Winnipeg Physiotherapist, Stephen Klatt" title="Stephen Klatt, MPT" width="299">
 
 <a href="#myofascial release"> <button class="myButton">Myofascial Release</button> </a>
+<img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/StephenPortrait.jpg" alt="Winnipeg Physiotherapist, Stephen Klatt" title="Stephen Klatt, MPT" width="299">
 
 <a href="#pain education"> <button class="myButton">Pain Education</button> </a>
+<img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/StephenPortrait.jpg" alt="Winnipeg Physiotherapist, Stephen Klatt" title="Stephen Klatt, MPT" width="299">
 
 <a href="#stretching"> <button class="myButton">Stretching (Assisted)</button> </a>
+<img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/StephenPortrait.jpg" alt="Winnipeg Physiotherapist, Stephen Klatt" title="Stephen Klatt, MPT" width="299">
 
 <a href="#tens"> <button class="myButton">TENS</button> </a>
+<img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/StephenPortrait.jpg" alt="Winnipeg Physiotherapist, Stephen Klatt" title="Stephen Klatt, MPT" width="299">
 
 <a href="#traction"> <button class="myButton">Traction</button> </a>
+<img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/StephenPortrait.jpg" alt="Winnipeg Physiotherapist, Stephen Klatt" title="Stephen Klatt, MPT" width="299">
 
 <a href="#ultrasound"> <button class="myButton">Ultrasound</button> </a>
+<img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/StephenPortrait.jpg" alt="Winnipeg Physiotherapist, Stephen Klatt" title="Stephen Klatt, MPT" width="299">
   
 </div>
 
