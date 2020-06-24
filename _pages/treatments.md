@@ -16,7 +16,7 @@ Below you will find a list of possible treatment modalities and techniques used 
 <img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/StephenPortrait.jpg" alt="Winnipeg Physiotherapist, Stephen Klatt" title="Stephen Klatt, MPT" width="299">
 
 <a href="#exercise prescription"> <button class="myButton">Exercise Prescription</button> </a>
-<img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/StephenPortrait.jpg" alt="Winnipeg Physiotherapist, Stephen Klatt" title="Stephen Klatt, MPT" width="299">
+<img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/dumbbells-2465478_1280.jpg" alt="Exercise Prescription Winnipeg Physiotherapist" title="Exercise Prescription, Stephen Klatt, MPT" width="299">
 
 <a href="#heat or ice"> <button class="myButton">Heat or Ice</button> </a>
 <img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/StephenPortrait.jpg" alt="Winnipeg Physiotherapist, Stephen Klatt" title="Stephen Klatt, MPT" width="299">
