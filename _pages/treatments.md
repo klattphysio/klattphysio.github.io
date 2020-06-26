@@ -27,8 +27,8 @@ Below you will find a list of possible treatment modalities and techniques used 
 <a href="#laser"> <button class="myButton">Laser</button> </a>
 <img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/03ergonomics32.jpg" alt="Winnipeg Physiotherapist, Stephen Klatt" title="Stephen Klatt, MPT" width="299">
 
-<a href="#myofascial release"> <button class="myButton">Myofascial Release</button> </a>
-<img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/08myofascialrelease32.jpg" alt="Winnipeg Physiotherapist, Stephen Klatt" title="Stephen Klatt, MPT" width="299">
+<li><a href="#myofascial release"> <button class="myButton">Myofascial Release</button> </a>
+<img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/08myofascialrelease32.jpg" alt="Winnipeg Physiotherapist, Stephen Klatt" title="Stephen Klatt, MPT" width="299"> </li>
 
 <a href="#pain education"> <button class="myButton">Pain Education</button> </a>
 <img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/09paineducation32.jpg" alt="Winnipeg Physiotherapist, Stephen Klatt" title="Stephen Klatt, MPT" width="299">
