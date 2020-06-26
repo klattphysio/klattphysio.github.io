@@ -46,63 +46,6 @@ Below you will find a list of possible treatment modalities and techniques used 
 <img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/13ultrasound32.jpg" alt="Ultrasound Winnipeg Physiotherapist" title="Ultrasound" width="299">
   
 </div>
-
-<!--
-<div style="text-align:center;">
-
-<a href="#acupuncture"> <button class="myButton">Acupuncture</button> </a>
-
-<a href="#cupping"> <button class="myButton">Cupping</button> </a>
-
-<a href="#exercise prescription"> <button class="myButton">Exercise Prescription</button> </a>
-
-<a href="#heat or ice"> <button class="myButton">Heat or Ice</button> </a>
-
-<a href="#joint mobilizations"> <button class="myButton">Joint Mobilizations</button> </a>
-
-<a href="#laser"> <button class="myButton">Laser</button> </a>
-
-<a href="#myofascial release"> <button class="myButton">Myofascial Release</button> </a>
-
-<a href="#pain education"> <button class="myButton">Pain Education</button> </a>
-
-<a href="#stretching"> <button class="myButton">Stretching (Assisted)</button> </a>
-
-<a href="#tens"> <button class="myButton">TENS</button> </a>
-
-<a href="#traction"> <button class="myButton">Traction</button> </a>
-
-<a href="#ultrasound"> <button class="myButton">Ultrasound</button> </a>
-
-</div>
--->
-<!--
-
-[Acupuncture](#acupuncture)
-
-[Cupping](#cupping)
-
-[Exercise Prescription](#exercise prescription)
-
-[Heat or Ice](#heat or ice)
-
-[Joint Mobilizations](#joint mobilizations)
-
-[Laser](#laser)
-
-[Myofascial Release](#myofascial release)
-
-[Pain Education](#pain education)
-
-[Stretching (Assisted)](#stretching)
-
-[TENS](#tens)
-
-[Traction](#traction)
-
-[Ultrasound](#ultrasound)
-
--->
 ## Acupuncture <a class="anchor" id="acupuncture"></a>
 
 Acupuncture is the use of very small needles to puncture the skin. A physiotherapist will use acupuncture as a treatment to target, myofascial restriction, swelling, decreased blood flow, and help with pain management and stimulating the nervous system. Acupuncture can even help to improve healing times by stimulating the body's natural healing response.
