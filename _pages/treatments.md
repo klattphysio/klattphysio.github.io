@@ -10,7 +10,7 @@ Below you will find a list of possible treatment modalities and techniques used 
 
 <div class="columns" style="text-align:center;">
 <a href="#acupuncture"> <button class="myButton">Acupuncture</button> </a>
-<a href="#acupuncture"> <img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/01acupuncture32.jpg" alt="Acupuncture Winnipeg Physiotherapist" title="Acupuncture" width="299"> </a>
+<img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/01acupuncture32.jpg" alt="Acupuncture Winnipeg Physiotherapist" title="Acupuncture" width="299">
 
 <a href="#cupping"> <button class="myButton">Cupping</button> </a>
 <img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/02cupping32.jpg" alt="Myofascial Cupping Winnipeg Physiotherapist" title="Myofascial Cupping" width="299">
@@ -46,6 +46,7 @@ Below you will find a list of possible treatment modalities and techniques used 
 <img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/13ultrasound32.jpg" alt="Ultrasound Winnipeg Physiotherapist" title="Ultrasound" width="299">
   
 </div>
+
 ## Acupuncture <a class="anchor" id="acupuncture"></a>
 
 Acupuncture is the use of very small needles to puncture the skin. A physiotherapist will use acupuncture as a treatment to target, myofascial restriction, swelling, decreased blood flow, and help with pain management and stimulating the nervous system. Acupuncture can even help to improve healing times by stimulating the body's natural healing response.
