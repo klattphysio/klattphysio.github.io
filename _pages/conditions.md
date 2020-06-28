@@ -31,9 +31,6 @@ Physiotherapists are trained in the assessment and treatment of a wide range of 
 <a href="#post-fracture"> <button class="myButton">Post-Fracture</button> </a> </li>
 
 <li style="list-style-type:none;padding: 0.5em 0 0 0;">
-<a href="#Post-Fracture"> <button class="myButton">Post-Fracture</button> </a> </li>
-
-<li style="list-style-type:none;padding: 0.5em 0 0 0;">
 <a href="#sprains"> <button class="myButton">Sprains</button> </a> </li>
 
 <li style="list-style-type:none;padding: 0.5em 0 0 0;">
