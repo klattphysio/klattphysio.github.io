@@ -10,31 +10,31 @@ Physiotherapists are trained in the assessment and treatment of a wide range of 
 
 <div class="columns" style="text-align:center;">
   
-<li style="list-style-type:none;padding: 0.5em 0 0 0.5em;">
+<li style="list-style-type:none;padding: 0.5em 0 0 0;">
 <a href="#acute injury"> <button class="myButton">Acute Injury</button> </a> </li>
   
-<li style="list-style-type:none;padding: 0.5em 0 0 0.5em;">
+<li style="list-style-type:none;padding: 0.5em 0 5em 0;">
 <a href="#chronic pain"> <button class="myButton">Chronic Pain</button> </a> </li>
 
-<li style="list-style-type:none;padding: 0.5em 0 0 0.5em;">
+<li style="list-style-type:none;padding: 0.5em 0 0 0;">
 <a href="#arthritis"> <button class="myButton">Arthritis</button> </a> </li>
 
-<li style="list-style-type:none;padding: 0.5em 0 0 0.5em;">
+<li style="list-style-type:none;padding: 0.5em 0 0 0;">
 <a href="#cancer"> <button class="myButton">Cancer</button> </a> </li>
 
-<li style="list-style-type:none;padding: 0.5em 0 0 0.5em;">
+<li style="list-style-type:none;padding: 0.5em 0 0 0;">
 <a href="#post-surgical"> <button class="myButton">Post-Surgical</button> </a> </li>
 
-<li style="list-style-type:none;padding: 0.5em 0 0 0.5em;">
+<li style="list-style-type:none;padding: 0.5em 0 0 0;">
 <a href="#post-fracture"> <button class="myButton">Post-Fracture</button> </a> </li>
 
-<li style="list-style-type:none;padding: 0.5em 0 0 0.5em;">
+<li style="list-style-type:none;padding: 0.5em 0 0 0;">
 <a href="#Post-Fracture"> <button class="myButton">Post-Fracture</button> </a> </li>
 
-<li style="list-style-type:none;padding: 0.5em 0 0 0.5em;">
+<li style="list-style-type:none;padding: 0.5em 0 0 0;">
 <a href="#sprains"> <button class="myButton">Sprains</button> </a> </li>
 
-<li style="list-style-type:none;padding: 0.5em 0 0 0.5em;">
+<li style="list-style-type:none;padding: 0.5em 0 0 0;">
 <a href="#tendonitis"> <button class="myButton">Tendonitis</button> </a> </li>
 
 </div>
