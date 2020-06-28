@@ -12,6 +12,11 @@ Below you will find a list of possible treatment modalities and techniques used 
 <a href="#acupuncture"> <button class="myButton">Acupuncture</button> </a>
 <img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/01acupuncture32.jpg" alt="Acupuncture Winnipeg Physiotherapist" title="Acupuncture" width="299">
 
+<li style="list-style-type:none;"><a href="#myofascial release"> <button class="myButton">Myofascial Release</button> </a>
+<img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/08myofascialrelease32.jpg" alt="Myofascial Release Winnipeg Physiotherapist" title="Myofascial Release" width="299"> </li>
+</div>
+
+<div class="columns" style="text-align:center;">
 <a href="#cupping"> <button class="myButton">Cupping</button> </a>
 <img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/02cupping32.jpg" alt="Myofascial Cupping Winnipeg Physiotherapist" title="Myofascial Cupping" width="299">
 
@@ -27,11 +32,8 @@ Below you will find a list of possible treatment modalities and techniques used 
 <a href="#laser"> <button class="myButton">Laser</button> </a>
 <img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/03ergonomics32.jpg" alt="Laser Winnipeg Physiotherapist" title="Laser" width="299">
 
-<li style="list-style-type:none;"><a href="#myofascial release"> <button class="myButton">Myofascial Release</button> </a>
-<img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/08myofascialrelease32.jpg" alt="Myofascial Release Winnipeg Physiotherapist" title="Myofascial Release" width="299"> </li>
-
-<a href="#pain education"> <button class="myButton">Pain Education</button> </a>
-<img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/09paineducation32.jpg" alt="Pain Education Winnipeg Physiotherapist" title="Pain Education" width="299">
+<li style="list-style-type:none;"><a href="#pain education"> <button class="myButton">Pain Education</button> </a>
+<img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/09paineducation32.jpg" alt="Pain Education Winnipeg Physiotherapist" title="Pain Education" width="299"> </li>
 
 <a href="#stretching"> <button class="myButton">Stretching (Assisted)</button> </a>
 <img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/10assistedstretching32.jpg" alt="Assisted Stretching Winnipeg Physiotherapist" title="Assisted Stretching" width="299">
