@@ -20,10 +20,10 @@ Physiotherapists are trained in the assessment and treatment of a wide range of 
 -->
 <div class="columns" style="text-align:center;">
   
-<li style="list-style-type:none;">
+<li style="list-style-type:none;" "padding: 1em 0 0 1em;">
 <a href="#acute injury"> <button class="myButton">Acute Injury</button> </a> </li>
   
-<li style="list-style-type:none;">
+<li style="list-style-type:none;" "padding: 1em 0 0 1em;">
 <a href="#chronic pain"> <button class="myButton">Chronic Pain</button> </a> </li>
 
 <li style="list-style-type:none;">
