@@ -18,24 +18,36 @@ Physiotherapists are trained in the assessment and treatment of a wide range of 
 <a href="#Cancer"> <button class="myButton">Cancer</button> </a>
 </div> 
 -->
+<div class="columns" style="text-align:center;">
+  
+<li style="list-style-type:none;">
+<a href="#acute injury"> <button class="myButton">Acute Injury</button> </a> </li>
+  
+<li style="list-style-type:none;">
+<a href="#chronic pain"> <button class="myButton">Chronic Pain</button> </a> </li>
 
-<a href="#acute injury"> <button class="myButton">Acute Injury</button> </a>
+<li style="list-style-type:none;">
+<a href="#arthritis"> <button class="myButton">Arthritis</button> </a> </li>
 
-<a href="#chronic pain"> <button class="myButton">Chronic Pain</button> </a>
+<li style="list-style-type:none;">
+<a href="#cancer"> <button class="myButton">Cancer</button> </a> </li>
 
-<a href="#arthritis"> <button class="myButton">Arthritis</button> </a>
+<li style="list-style-type:none;">
+<a href="#post-surgical"> <button class="myButton">Post-Surgical</button> </a> </li>
 
-<a href="#cancer"> <button class="myButton">Cancer</button> </a>
+<li style="list-style-type:none;">
+<a href="#post-fracture"> <button class="myButton">Post-Fracture</button> </a> </li>
 
-<a href="#post-surgical"> <button class="myButton">Post-Surgical</button> </a>
+<li style="list-style-type:none;">
+<a href="#Post-Fracture"> <button class="myButton">Post-Fracture</button> </a> </li>
 
-<a href="#post-fracture"> <button class="myButton">Post-Fracture</button> </a>
+<li style="list-style-type:none;">
+<a href="#sprains"> <button class="myButton">Sprains</button> </a> </li>
 
-<a href="#Post-Fracture"> <button class="myButton">Post-Fracture</button> </a>
+<li style="list-style-type:none;">
+<a href="#tendonitis"> <button class="myButton">Tendonitis</button> </a> </li>
 
-<a href="#sprains"> <button class="myButton">Sprains</button> </a>
-
-<a href="#tendonitis"> <button class="myButton">Tendonitis</button> </a>
+</div>
 
 ## Acute Injury <a class="anchor" name="acute injury"></a>
 
