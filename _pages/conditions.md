@@ -13,7 +13,7 @@ Physiotherapists are trained in the assessment and treatment of a wide range of 
 <li style="list-style-type:none;padding: 0.5em 0 0 0.5em;">
 <a href="#acute injury"> <button class="myButton">Acute Injury</button> </a> </li>
   
-<li style="list-style-type:none;padding: 0.5em 0 0 5em;">
+<li style="list-style-type:none;padding: 0.5em 0 0 0.5em;">
 <a href="#chronic pain"> <button class="myButton">Chronic Pain</button> </a> </li>
 
 <li style="list-style-type:none;padding: 0.5em 0 0 0.5em;">
