@@ -8,43 +8,33 @@ description: Physiotherapy can help with more than just aches and pains. Common 
 
 Physiotherapists are trained in the assessment and treatment of a wide range of conditions, and this list is by no means complete. If you have questions about your current condition that are not answered by the information on this page, please [contact us](https://www.klattphysio.ca/contact) to find out if physiotherapy may be right for you.
 
-<!--
-<div class="columns" style="text-align:center;">
-<a href="#Acute Injury"> <button class="myButton">Acute Injury</button> </a>
-<a href="#Chronic Pain"> <button class="myButton">Chronic Pain</button> </a>
-<a href="#Arthritis"> <button class="myButton">Arthritis</button> </a>
-<a href="#Post-Surgical"> <button class="myButton">Post-Surgical</button> </a>
-<a href="#Post-Fracture"> <button class="myButton">Post-Fracture</button> </a>
-<a href="#Cancer"> <button class="myButton">Cancer</button> </a>
-</div> 
--->
 <div class="columns" style="text-align:center;">
   
-<li style="list-style-type:none;padding: 1em 0 0 1em;">
+<li style="list-style-type:none;padding: 0.5em 0 0 0.5em;">
 <a href="#acute injury"> <button class="myButton">Acute Injury</button> </a> </li>
   
-<li style="list-style-type:none;padding: 1em 0 0 1em;">
+<li style="list-style-type:none;padding: 0.5em 0 0 5em;">
 <a href="#chronic pain"> <button class="myButton">Chronic Pain</button> </a> </li>
 
-<li style="list-style-type:none;">
+<li style="list-style-type:none;padding: 0.5em 0 0 0.5em;">
 <a href="#arthritis"> <button class="myButton">Arthritis</button> </a> </li>
 
-<li style="list-style-type:none;">
+<li style="list-style-type:none;padding: 0.5em 0 0 0.5em;">
 <a href="#cancer"> <button class="myButton">Cancer</button> </a> </li>
 
-<li style="list-style-type:none;">
+<li style="list-style-type:none;padding: 0.5em 0 0 0.5em;">
 <a href="#post-surgical"> <button class="myButton">Post-Surgical</button> </a> </li>
 
-<li style="list-style-type:none;">
+<li style="list-style-type:none;padding: 0.5em 0 0 0.5em;">
 <a href="#post-fracture"> <button class="myButton">Post-Fracture</button> </a> </li>
 
-<li style="list-style-type:none;">
+<li style="list-style-type:none;padding: 0.5em 0 0 0.5em;">
 <a href="#Post-Fracture"> <button class="myButton">Post-Fracture</button> </a> </li>
 
-<li style="list-style-type:none;">
+<li style="list-style-type:none;padding: 0.5em 0 0 0.5em;">
 <a href="#sprains"> <button class="myButton">Sprains</button> </a> </li>
 
-<li style="list-style-type:none;">
+<li style="list-style-type:none;padding: 0.5em 0 0 0.5em;">
 <a href="#tendonitis"> <button class="myButton">Tendonitis</button> </a> </li>
 
 </div>
