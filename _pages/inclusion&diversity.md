@@ -9,6 +9,8 @@ description: All are welcome! Each day I strive to approach every person I meet 
 
 Each day I strive to approach every person I meet with an attitude of understanding, appreciation and acceptance. These values are the foundation for how I interact with individuals both in and out of the clinic. I believe that our uniqueness is meant to be embraced and fully expressed, and I hope to provide a space where anyone who steps foot in my office feels that they can express who they are to their full extent.
 
+<img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/diversity32.jpg" alt="Diversity Winnipeg Physiotherapist" title="Inclusion and Diversity" width="640">
+
 Within our clinic we aim to create a safe space that celebrates diversity. We endeavour to offer our services to people from different backgrounds that vary by:
 
 * ability
