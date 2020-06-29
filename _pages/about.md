@@ -17,3 +17,5 @@ He was soon accepted to the University of Manitoba to study Physical Therapy and
 Currently, Stephen can be found working as a physiotherapist providing both physiotherapy assessment and treatment at the [Centre for Natural Pain Solutions](https://cfnps.ca/).
 
 As a physiotherapist, Stephen helps individuals like you, recover from injury, orthopedic surgery, and in general to improve, maintain or restore physical function. Stephen believes that pain, weakness, injury, and the stress that comes from these should never be the status quo. He challenges this idea every day by learning the most cutting edge evidence based treatment models. Then, educating and treating individuals to help heal, restore function, and also prevent future injury. He is certified in Acupuncture treatment, myofascial cupping, and has over 100 hours of training in Therapeutic and Restorative Yoga. He would love to help you in your recovery and to reach your own goals in order to get you back to work and play!
+
+Stephen uses the pronouns he/him/his.
