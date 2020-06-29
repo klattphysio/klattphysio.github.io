@@ -30,7 +30,7 @@ Below you will find a list of possible treatment modalities and techniques used 
 <img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/06jointmobilization32.jpg" alt="Joint Mobilizations Winnipeg Physiotherapist" title="Joint Mobilizations" width="299">
 
 <a href="#laser"> <button class="myButton">Laser</button> </a>
-<img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/03ergonomics32.jpg" alt="Laser Winnipeg Physiotherapist" title="Laser" width="299">
+<img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/07laser32.jpg" alt="Laser Winnipeg Physiotherapist" title="Laser" width="299">
 
 <li style="list-style-type:none;"><a href="#pain education"> <button class="myButton">Pain Education</button> </a>
 <img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/09paineducation32.jpg" alt="Pain Education Winnipeg Physiotherapist" title="Pain Education" width="299"> </li>
@@ -39,13 +39,13 @@ Below you will find a list of possible treatment modalities and techniques used 
 <img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/10assistedstretching32.jpg" alt="Assisted Stretching Winnipeg Physiotherapist" title="Assisted Stretching" width="299">
 
 <a href="#tens"> <button class="myButton">TENS</button> </a>
-<img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/03ergonomics32.jpg" alt="TENS Winnipeg Physiotherapist" title="TENS" width="299">
+<img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/12TENS32.jpg" alt="TENS Winnipeg Physiotherapist" title="TENS" width="299">
 
 <a href="#traction"> <button class="myButton">Traction</button> </a>
 <img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/12traction32.jpg" alt="Traction Winnipeg Physiotherapist" title="Traction" width="299">
 
 <a href="#ultrasound"> <button class="myButton">Ultrasound</button> </a>
-<img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/13ultrasound32.jpg" alt="Ultrasound Winnipeg Physiotherapist" title="Ultrasound" width="299">
+<img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/14ultrasound32.jpg" alt="Ultrasound Winnipeg Physiotherapist" title="Ultrasound" width="299">
   
 </div>
 
