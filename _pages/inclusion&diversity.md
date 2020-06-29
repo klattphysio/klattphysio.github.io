@@ -33,3 +33,13 @@ We are committed to combating stigma and shame that may prevent individuals from
 * transphobia
 
 > "Every time someone steps up and says who they are, the world becomes a better, more interesting place. So thank you."<br/> - Brooklyn Nine-Nine
+
+<!--
+## Links
+
+[The Foot Collective - End Racism](https://www.thefootcollective.com/endracism/)
+
+[White Fragility](https://www.youtube.com/watch?v=45ey4jgoxeU)
+
+[Pronouns](https://medium.com/matthews-place/why-cisgender-individuals-should-put-their-pronouns-in-their-bio-381fe9601734#:~:text=Having%20your%20pronouns%20in%20your,you%20personally%20on%20social%20media.&text=It%20opens%20a%20safe%20space,being%20the%20odd%20one%20out.)
+-->
