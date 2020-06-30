@@ -48,7 +48,6 @@ Below you will find a list of possible treatment modalities and techniques used 
 
 <img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/14ultrasound32.jpg" alt="Ultrasound Winnipeg Physiotherapist" title="Ultrasound" width="299">
 <a href="#ultrasound"> <button class="myButton">Ultrasound</button> </a>
-  
 </div>
 
 ## Acupuncture <a class="anchor" id="acupuncture"></a>
