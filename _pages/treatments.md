@@ -18,8 +18,8 @@ Below you will find a list of possible treatment modalities and techniques used 
 <a href="#myofascial release"> <button class="myButton">Myofascial Release</button> </a></li>
 </div>
 
-<li style="list-style-type:none;">
 <div class="columns" style="text-align:center;">
+<li style="list-style-type:none;">
 <img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/02cupping32.jpg" alt="Myofascial Cupping Winnipeg Physiotherapist" title="Myofascial Cupping" width="299">
 <a href="#cupping"> <button class="myButton">Cupping</button> </a></li>
 
