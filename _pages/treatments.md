@@ -9,45 +9,55 @@ description: Here to help you, Physiotherapist Stephen Klatt is trained in a var
 Below you will find a list of possible treatment modalities and techniques used by Stephen Klatt at the [Centre for Natural Pain Solutions](https://cfnps.ca/). This list is to help you get a better understanding of what treatments are available. It is important to know that although there are many options on the list, a thorough assessment helps to narrow down which treatment options are best suited to you as an individual and best suited to your current condition and stage of healing.
 
 <div class="columns" style="text-align:center;">
+<li style="list-style-type:none;">  
 <img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/01acupuncture32.jpg" alt="Acupuncture Winnipeg Physiotherapist" title="Acupuncture" width="299">
-<a href="#acupuncture"> <button class="myButton">Acupuncture</button> </a>
+<a href="#acupuncture"> <button class="myButton">Acupuncture</button> </a></li>
 
 <li style="list-style-type:none;">
 <img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/08myofascialrelease32.jpg" alt="Myofascial Release Winnipeg Physiotherapist" title="Myofascial Release" width="299">
 <a href="#myofascial release"> <button class="myButton">Myofascial Release</button> </a></li>
 </div>
 
+<li style="list-style-type:none;">
 <div class="columns" style="text-align:center;">
 <img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/02cupping32.jpg" alt="Myofascial Cupping Winnipeg Physiotherapist" title="Myofascial Cupping" width="299">
-<a href="#cupping"> <button class="myButton">Cupping</button> </a>
+<a href="#cupping"> <button class="myButton">Cupping</button> </a></li>
 
+<li style="list-style-type:none;">
 <img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/04exerciseprescription32.jpg" alt="Exercise Prescription Winnipeg Physiotherapist" title="Exercise Prescription" width="299">
-<a href="#exercise prescription"> <button class="myButton">Exercise Prescription</button> </a>
+<a href="#exercise prescription"> <button class="myButton">Exercise Prescription</button> </a></li>
 
+<li style="list-style-type:none;">
 <img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/05ice32.jpg" alt="Heat or Ice Winnipeg Physiotherapist" title="Heat or Ice" width="299">
-<a href="#heat or ice"> <button class="myButton">Heat or Ice</button> </a>
+<a href="#heat or ice"> <button class="myButton">Heat or Ice</button> </a></li>
 
+<li style="list-style-type:none;">
 <img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/06jointmobilization32.jpg" alt="Joint Mobilizations Winnipeg Physiotherapist" title="Joint Mobilizations" width="299">
-<a href="#joint mobilizations"> <button class="myButton">Joint Mobilizations</button> </a>
+<a href="#joint mobilizations"> <button class="myButton">Joint Mobilizations</button> </a></li>
 
+<li style="list-style-type:none;">
 <img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/07laser32.jpg" alt="Laser Winnipeg Physiotherapist" title="Laser" width="299">
-<a href="#laser"> <button class="myButton">Laser</button> </a>
+<a href="#laser"> <button class="myButton">Laser</button> </a></li>
 
 <li style="list-style-type:none;">
 <img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/09paineducation32.jpg" alt="Pain Education Winnipeg Physiotherapist" title="Pain Education" width="299"> 
 <a href="#pain education"> <button class="myButton">Pain Education</button> </a></li>
 
+<li style="list-style-type:none;">
 <img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/10assistedstretching32.jpg" alt="Assisted Stretching Winnipeg Physiotherapist" title="Assisted Stretching" width="299">
-<a href="#stretching"> <button class="myButton">Stretching (Assisted)</button> </a>
+<a href="#stretching"> <button class="myButton">Stretching (Assisted)</button> </a></li>
 
+<li style="list-style-type:none;">
 <img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/12TENS32.jpg" alt="TENS Winnipeg Physiotherapist" title="TENS" width="299">
-<a href="#tens"> <button class="myButton">TENS</button> </a>
+<a href="#tens"> <button class="myButton">TENS</button> </a></li>
 
+<li style="list-style-type:none;">
 <img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/12traction32.jpg" alt="Traction Winnipeg Physiotherapist" title="Traction" width="299">
-<a href="#traction"> <button class="myButton">Traction</button> </a>
+<a href="#traction"> <button class="myButton">Traction</button> </a></li>
 
+<li style="list-style-type:none;">
 <img class="no-shadows" src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/14ultrasound32.jpg" alt="Ultrasound Winnipeg Physiotherapist" title="Ultrasound" width="299">
-<a href="#ultrasound"> <button class="myButton">Ultrasound</button> </a>
+<a href="#ultrasound"> <button class="myButton">Ultrasound</button> </a></li>
 </div>
 
 ## Acupuncture <a class="anchor" id="acupuncture"></a>
