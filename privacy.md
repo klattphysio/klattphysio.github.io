@@ -186,5 +186,5 @@ description: This Privacy Policy describes how your personal information is coll
 <h1>Contact Us</h1>
 <p>If you have any questions about this Privacy Policy, You can contact us:</p>
 <ul>
-          <li>By visiting this page on our website: https://www.klattphysio.ca/contact</li>
+          <li>By visiting this page on our website: <a href="https://www.klattphysio.ca/contact">Contact</a></li>
       </ul>
