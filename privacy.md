@@ -63,7 +63,7 @@ description: This Privacy Policy describes how your personal information is coll
 <p>You can instruct Your browser to refuse all Cookies or to indicate when a Cookie is being sent. However, if You do not accept Cookies, You may not be able to use some parts of our Service.</p>
 <p>Cookies can be "Persistent" or "Session" Cookies. Persistent Cookies remain on your personal computer or mobile device when You go offline, while Session Cookies are deleted as soon as You close your web browser. Learn more about cookies here: <a href="https://www.freeprivacypolicy.com/blog/cookies/">Cookies: What Do They Do?</a></p>
 <p>We use both session and persistent Cookies for the purposes set out below:</p>
-    <ul>
+<ul>
         <li>
             <p><strong>Necessary / Essential Cookies</strong>
             <p>Type: Session Cookies</p>
@@ -89,7 +89,7 @@ description: This Privacy Policy describes how your personal information is coll
               <p>Purpose: These Cookies are used to track information about traffic to the Website and how users use the Website. The information gathered via these Cookies may directly or indirectly identify you as an individual visitor. This is because the information collected is typically linked to a pseudonymous identifier associated with the device you use to access the Website. We may also use these Cookies to test new advertisements, pages, features or new functionality of the Website to see how our users react to them.</p>
           </li>
                 </ul>
-    <p>For more information about the cookies we use and your choices regarding cookies, please visit our Cookies Policy.</p>
+<p>For more information about the cookies we use and your choices regarding cookies, please visit our Cookies Policy.</p>
 
 <h2>Use of Your Personal Data</h2>
 <p>The Company may use Personal Data for the following purposes:</p>
@@ -144,7 +144,7 @@ description: This Privacy Policy describes how your personal information is coll
 
 <h2>Analytics</h2>
 <p>We may use third-party Service providers to monitor and analyze the use of our Service.</p>
-        <ul>
+<ul>
                                                                                                         <li>
                   <p><strong>Google Analytics</strong></p>
                   <p>Google Analytics is provided by Google.</p>
