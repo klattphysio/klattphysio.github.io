@@ -59,10 +59,10 @@ description: This Privacy Policy describes how your personal information is coll
 <p>We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.</p>
 
 <h3>Tracking Technologies and Cookies</h3>
-    <p>We use Cookies and similar tracking technologies to track the activity on Our Service and store certain information. Tracking technologies used are beacons, tags, and scripts to collect and track information and to improve and analyze Our Service.</p>
-    <p>You can instruct Your browser to refuse all Cookies or to indicate when a Cookie is being sent. However, if You do not accept Cookies, You may not be able to use some parts of our Service.</p>
-    <p>Cookies can be "Persistent" or "Session" Cookies. Persistent Cookies remain on your personal computer or mobile device when You go offline, while Session Cookies are deleted as soon as You close your web browser. Learn more about cookies here: <a href="https://www.freeprivacypolicy.com/blog/cookies/">Cookies: What Do They Do?</a></p>
-    <p>We use both session and persistent Cookies for the purposes set out below:</p>
+<p>We use Cookies and similar tracking technologies to track the activity on Our Service and store certain information. Tracking technologies used are beacons, tags, and scripts to collect and track information and to improve and analyze Our Service.</p>
+<p>You can instruct Your browser to refuse all Cookies or to indicate when a Cookie is being sent. However, if You do not accept Cookies, You may not be able to use some parts of our Service.</p>
+<p>Cookies can be "Persistent" or "Session" Cookies. Persistent Cookies remain on your personal computer or mobile device when You go offline, while Session Cookies are deleted as soon as You close your web browser. Learn more about cookies here: <a href="https://www.freeprivacypolicy.com/blog/cookies/">Cookies: What Do They Do?</a></p>
+<p>We use both session and persistent Cookies for the purposes set out below:</p>
     <ul>
         <li>
             <p><strong>Necessary / Essential Cookies</strong>
@@ -140,10 +140,10 @@ description: This Privacy Policy describes how your personal information is coll
 <p>The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.</p>
 
 <h1>Detailed Information on the Processing of Your Personal Data</h1>
-    <p>Service Providers have access to Your Personal Data only to perform their tasks on Our behalf and are obligated not to disclose or use it for any other purpose.</p>
+<p>Service Providers have access to Your Personal Data only to perform their tasks on Our behalf and are obligated not to disclose or use it for any other purpose.</p>
 
 <h2>Analytics</h2>
-        <p>We may use third-party Service providers to monitor and analyze the use of our Service.</p>
+<p>We may use third-party Service providers to monitor and analyze the use of our Service.</p>
         <ul>
                                                                                                         <li>
                   <p><strong>Google Analytics</strong></p>
@@ -156,10 +156,10 @@ description: This Privacy Policy describes how your personal information is coll
   
   
   
- <h2>Usage, Performance and Miscellaneous</h2>
-        <p>We may use third-party Service Providers to provide better improvement of our Service.</p>
-        <ul>
-                                                      <li>
+<h2>Usage, Performance and Miscellaneous</h2>
+<p>We may use third-party Service Providers to provide better improvement of our Service.</p>
+<ul>
+<li>
                   <p><strong>Google Places</strong></p>
                   <p>Google Places is a service that returns information about places using HTTP requests. It is operated by Google.</p>
                   <p>Google Places service may collect information from You and from Your Device for security purposes.</p>
@@ -169,8 +169,8 @@ description: This Privacy Policy describes how your personal information is coll
   
 
 <h1>Children's Privacy</h1>
-    <p>Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.</p>
-    <p>If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.</p>
+<p>Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.</p>
+<p>If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.</p>
 
 
 
