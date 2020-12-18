@@ -6,7 +6,7 @@ description: Stephen Klatt is a Physiotherapist with a focus on treating acute a
 ---
 # Notice
 
-I’m excited to announce that I will soon become a stay-at-home Dad! My last day of work at [Centre for Natural Pain Solutions](https://cfnps.ca/) will be January 26, 2021. I will be seeing patients right up until my last day, and would be happy to address your needs until then. If you are a past patient of mine and need access to your medical records related to your physiotherapy treatment, please contact [Centre for Natural Pain Solutions](https://cfnps.ca/) at [204-775-4539](tel:12047754539)
+I’m excited to announce that I will soon become a stay-at-home Dad! My last day of work at [Centre for Natural Pain Solutions](https://cfnps.ca/) will be January 26, 2021. I will be seeing patients right up until my last day, and would be happy to address your needs until then. If you are a past patient of mine and would like access to your medical records related to your physiotherapy treatment, please contact [Centre for Natural Pain Solutions](https://cfnps.ca/) at [204-775-4539](tel:12047754539).
 
 Thank you to all my wonderful patients and the hard-working staff at [Centre for Natural Pain Solutions](https://cfnps.ca/).
 
