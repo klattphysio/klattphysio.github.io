@@ -10,13 +10,13 @@ Stephen Klatt is a Winnipeg Physiotherapist who is currently registered as an in
 
 If you are a past patient of Stephen's and would like access to your medical records related to your physiotherapy treatment, please contact the clinic where you were treated.
 
-<p align="center">[Revolution Rehab](http://www.revolutionrehab.ca/) @</p>
+<p align="center">Revolution Rehab @</p>
 <p align="center"> <a href="tel:204-223-7358"> <button class="button button5"><i class="fa fa-phone"></i> 204-223-7358</button> </a> </p>
 
 <p align="center">OR</p>
 
-<p align="center">[Centre for Natural Pain Solutions](https://cfnps.ca/) @</p>
-<p align="center"> <a href="tel:204-775-4539"> <button class="button button5"><i class="fa fa-phone"></i> 204-775-4539</button> </a> </p>[204-223-7358](tel:12042237358).
+<p align="center">Centre for Natural Pain Solutions @</p>
+<p align="center"> <a href="tel:204-775-4539"> <button class="button button5"><i class="fa fa-phone"></i> 204-775-4539</button> </a> </p>
 
 <img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/StephenPortrait.jpg" alt="Winnipeg Physiotherapist, Stephen Klatt" title="Stephen Klatt, MPT" width="640">
 
