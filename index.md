@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Winnipeg Physiotherapist
-description: Stephen Klatt is a Physiotherapist with a focus on treating acute and chronic pain. Located in the heart of Downtown Winnipeg on the corner of Broadway and Balmoral he is here for you.
+description: Stephen Klatt is a Winnipeg Physiotherapist who is currently registered as an inactive Physiotherapist in Manitoba. He is currently on parental leave. Once he returns to practice as a physiotherapist, this website will be updated promplty, so stay tuned!
 
 ---
 # Notice
 
-I’m excited to announce that I will soon become a stay-at-home Dad! My last day of work at [Centre for Natural Pain Solutions](https://cfnps.ca/) will be January 26, 2021. I will be seeing patients right up until my last day, and would be happy to address your needs until then. If you are a past patient of mine and would like access to your medical records related to your physiotherapy treatment, please contact [Centre for Natural Pain Solutions](https://cfnps.ca/) at [204-775-4539](tel:12047754539).
+Stephen Klatt is a Winnipeg Physiotherapist who is currently registered as an inactive Physiotherapist in Manitoba. As of January 26, 2021, he is on parental leave. Once he returns to practice as a physiotherapist, this website will be updated promplty indicating his new place of employment, so stay tuned!
 
-Thank you to all my wonderful patients and the hard-working staff at [Centre for Natural Pain Solutions](https://cfnps.ca/).
+If you are a past patient of Stephen's and would like access to your medical records related to your physiotherapy treatment, please contact the clinic where you were treated.
+
+[Revolution Rehab](http://www.revolutionrehab.ca/) at [204-223-7358](tel:12042237358).
+
+[Centre for Natural Pain Solutions](https://cfnps.ca/) at [204-775-4539](tel:12047754539).
 
 At this time I have no concrete plans to return to practice as a physiotherapist, but any future plans will be announced here on my website.
-
-# Winnipeg Physiotherapist
-
-Stephen Klatt is a physiotherapist that can help you to not only manage, but, overcome both acute and chronic pain. His main goal is to help you get moving again. His office is located within the [Centre for Natural Pain Solutions](https://cfnps.ca/) which can be found in the heart of Downtown Winnipeg on the corner of Broadway and Balmoral. Stephen is proud to offer one-one-one physiotherapy sessions in a private treatment room. We never double book our clients to ensure that every client gets the therapist's full attention during the entire session. 
 
 <img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/StephenPortrait.jpg" alt="Winnipeg Physiotherapist, Stephen Klatt" title="Stephen Klatt, MPT" width="640">
 
@@ -26,15 +26,13 @@ Our primary goal as physiotherapists is to help people get moving again. For a n
 
 ### Who pays for physiotherapy?
 
-Physiotherapy provided at our clinic is not covered under Manitoba Health Insurance. This is the case for all private clinics in Manitoba that offer physiotherapy services. If you have third-party insurance coverage (such as insurance provided through your work), there is often a portion of it that covers the cost of physiotherapy sessions. 
+Physiotherapy provided in private clinics is not covered under Manitoba Health Insurance. This is the case for all private clinics in Manitoba that offer physiotherapy services. If you have third-party insurance coverage (such as insurance provided through your work), there is often a portion of it that covers the cost of physiotherapy sessions. 
 
-At the [Centre for Natural Pain Solutions](https://cfnps.ca/), we offer direct billing to most third-party insurance companies including, but not limited to: Manitoba Public Insurance, Workers Compensation Board of Manitoba, Canada Life, Blue Cross, Green Shield and Sun Life.
+Most clinics offer direct billing to most third-party insurance companies including, but not limited to: Manitoba Public Insurance, Workers Compensation Board of Manitoba, Canada Life, Blue Cross, Green Shield and Sun Life.
 
 ### What if I have to pay out-of-pocket for physiotherapy?
 
 Clients have the option to pay out-of-pocket for physiotherapy. It is important to note that physiotherapy fees paid directly by a client are tax free and qualify as a medical expense for income tax purposes.
-
-All physiotherapy appointments at our clinic are one-on-one in a private treatment room, and we never double book our clients. Our goal is to get you better as soon as possible through a combination of in-clinic hands-on treatment and a self-managed home program specific to your current condition. 
 
 For individuals with financial need seeking non-emergency medical care (including physiotherapy), [WISH Clinic](https://wishclinic.ca/) at Mount Carmel Clinic offers a wide range of medical services free of charge.
 
