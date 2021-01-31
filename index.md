@@ -4,17 +4,19 @@ title: Winnipeg Physiotherapist
 description: Stephen Klatt is a Winnipeg Physiotherapist who is currently registered as an inactive Physiotherapist in Manitoba. He is currently on parental leave. Once he returns to practice as a physiotherapist, this website will be updated promplty, so stay tuned!
 
 ---
-# Notice
+# Winnipeg Physiotherapist
 
 Stephen Klatt is a Winnipeg Physiotherapist who is currently registered as an inactive Physiotherapist in Manitoba. As of January 26, 2021, he is on parental leave. Once he returns to practice as a physiotherapist, this website will be updated promplty indicating his new place of employment, so stay tuned!
 
 If you are a past patient of Stephen's and would like access to your medical records related to your physiotherapy treatment, please contact the clinic where you were treated.
 
-[Revolution Rehab](http://www.revolutionrehab.ca/) at [204-223-7358](tel:12042237358).
+<p align="center">[Revolution Rehab](http://www.revolutionrehab.ca/) @</p>
+<p align="center"> <a href="tel:204-223-7358"> <button class="button button5"><i class="fa fa-phone"></i> 204-223-7358</button> </a> </p>
 
-[Centre for Natural Pain Solutions](https://cfnps.ca/) at [204-775-4539](tel:12047754539).
+<p align="center">OR</p>
 
-At this time I have no concrete plans to return to practice as a physiotherapist, but any future plans will be announced here on my website.
+<p align="center">[Centre for Natural Pain Solutions](https://cfnps.ca/) @</p>
+<p align="center"> <a href="tel:204-775-4539"> <button class="button button5"><i class="fa fa-phone"></i> 204-775-4539</button> </a> </p>[204-223-7358](tel:12042237358).
 
 <img src="https://raw.githubusercontent.com/klattphysio/klattphysio.github.io/master/_pictures/StephenPortrait.jpg" alt="Winnipeg Physiotherapist, Stephen Klatt" title="Stephen Klatt, MPT" width="640">
 
