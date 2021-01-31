@@ -2,7 +2,7 @@
 layout: default
 title: "Conditions"
 permalink: conditions
-description: Physiotherapy can help with more than just aches and pains. Common conditions treated by Physiotherapist Stephen Klatt at the Centre for Natural Pain Solutions.
+description: Physiotherapy can help with more than just aches and pains. Common conditions treated by Physiotherapist Stephen Klatt.
 ---
 # Conditions
 
