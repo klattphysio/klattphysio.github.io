@@ -14,6 +14,6 @@ Starting from a young age with a part-time job at the YMCA, Stephen began to dev
 
 He was soon accepted to the University of Manitoba to study Physical Therapy and in 2015 graduated with a Masters degree in Physical Therapy. Stephen has since worked as a physiotherapist in both public and private sectors.
 
-Currently, Stephen is on parental leave raising his daughter. He is excited to return to physiotherapy practice once she is a little bit older.
+Currently, Stephen is spending time with his family and pursuing his dream of becoming an Electrical Engineer Technologist. He will not be returning to Physiotherapy practice.
 
 Stephen uses the pronouns he/him/his.
