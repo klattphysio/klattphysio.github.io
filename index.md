@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Winnipeg Physiotherapist
-description: Stephen Klatt is a Winnipeg Physiotherapist who is currently registered as an inactive Physiotherapist in Manitoba. He is currently on parental leave. Once he returns to practice as a physiotherapist, this website will be updated promplty, so stay tuned!
+description: Stephen Klatt is a Winnipeg Physiotherapist who is currently registered as an inactive Physiotherapist in Manitoba. He is currently on parental leave.
 
 ---
 # Winnipeg Physiotherapist
