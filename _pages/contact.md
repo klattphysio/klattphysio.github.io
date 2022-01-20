@@ -7,8 +7,6 @@ description: Any future clinic location contact information will be added upon S
 
 # Contact Us
 
-Any future clinic location contact information will be added upon Stephen's return to practice.
-
 For access to your medical records please contact the clinic where you were treated.
 
 <p align="center">Revolution Rehab @</p>
