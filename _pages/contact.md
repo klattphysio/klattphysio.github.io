@@ -2,7 +2,7 @@
 layout: default
 title: "Contact"
 permalink: contact
-description: Any future clinic location contact information will be added upon Stephen's return to practice.
+description: For access to your medical records please contact the clinic where you were treated.
 ---
 
 # Contact Us
